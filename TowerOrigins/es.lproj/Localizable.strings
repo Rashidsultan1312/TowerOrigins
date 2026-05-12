@@ -1,0 +1,100 @@
+"onboarding.skip" = "Saltar";
+"onboarding.next" = "Siguiente";
+"onboarding.start" = "Comenzar";
+"onboarding.1.title" = "Descubre torres antiguas";
+"onboarding.1.text" = "Explora castillos, faros y campanarios de todo el mundo y conoce su historia.";
+"onboarding.2.title" = "Mira cómo se construyeron";
+"onboarding.2.text" = "Etapas de construcción, andamios, grúas y bloques de piedra paso a paso.";
+"onboarding.3.title" = "Explora el interior";
+"onboarding.3.text" = "Salas, escaleras y campanas: todo lo que esconde una torre por dentro.";
+"onboarding.4.title" = "Pon a prueba tus conocimientos";
+"onboarding.4.text" = "Quiz cortos con datos curiosos para aprender mientras juegas.";
+
+"tab.home" = "Inicio";
+"tab.explore" = "Explorar";
+"tab.quiz" = "Quiz";
+"tab.favorites" = "Favoritos";
+"tab.info" = "Info";
+
+"home.title" = "Torres antiguas";
+"home.subtitle" = "Descubre torres antiguas y cómo se construyeron";
+"home.featured" = "Torre destacada";
+"home.featured.cta" = "Leer más";
+"home.popular" = "Más populares";
+"home.sections" = "Aprende sobre torres";
+"home.section.stages" = "Etapas de construcción";
+"home.section.interior" = "Vista interior";
+"home.section.facts" = "Datos históricos";
+"home.section.quiz" = "Pon a prueba tu memoria";
+"home.stat.towers" = "Torres";
+"home.stat.viewed" = "Visitadas";
+"home.stat.favorites" = "Favoritas";
+
+"explore.title" = "Explorar";
+"explore.search" = "Buscar torres...";
+"explore.filter" = "Filtrar";
+"explore.filter.kind" = "Tipo";
+"explore.filter.era" = "Época";
+"explore.filter.clear" = "Limpiar";
+"explore.filter.apply" = "Aplicar";
+"explore.empty" = "Ninguna torre coincide con los filtros.";
+"explore.results" = "%d torres";
+
+"detail.didYouKnow" = "¿Sabías que...?";
+"detail.section.stages" = "Etapas";
+"detail.section.interior" = "Interior";
+"detail.section.facts" = "Historia";
+"detail.favorite.add" = "Añadir a favoritos";
+"detail.favorite.remove" = "Quitar de favoritos";
+"detail.location" = "Ubicación";
+"detail.century" = "Época";
+"detail.kind" = "Tipo";
+"detail.missing" = "Torre no encontrada.";
+
+"sheet.stages.title" = "Etapas de construcción";
+"sheet.interior.title" = "Vista interior";
+"sheet.facts.title" = "Datos históricos";
+"sheet.close" = "Cerrar";
+
+"quiz.title" = "Quiz";
+"quiz.intro.title" = "¿Listo para el reto?";
+"quiz.intro.text" = "%d preguntas sobre torres antiguas. Toca una respuesta y descubre la solución.";
+"quiz.intro.start" = "Empezar quiz";
+"quiz.intro.best" = "Mejor puntuación: %d";
+"quiz.progress" = "%d / %d";
+"quiz.next" = "Siguiente";
+"quiz.correct" = "¡Correcto!";
+"quiz.incorrect" = "Casi...";
+"quiz.result.title" = "Tu puntuación";
+"quiz.result.score" = "%d de %d";
+"quiz.result.retry" = "Reintentar";
+"quiz.result.back" = "Volver";
+"quiz.result.new_best" = "¡Nuevo récord!";
+
+"favorites.title" = "Favoritos";
+"favorites.empty.title" = "Aún no hay favoritos";
+"favorites.empty.text" = "Toca el corazón en cualquier torre para guardarla aquí.";
+"favorites.delete" = "Eliminar";
+
+"info.title" = "Info";
+"info.about.title" = "Acerca de esta app";
+"info.about.text" = "Una guía visual sobre torres antiguas: castillos, campanarios, faros y fortalezas. Aprende cómo se construyeron y qué esconden por dentro.";
+"info.privacy" = "Política de privacidad";
+"info.support" = "Soporte";
+"info.support.subtitle" = "Escríbenos si tienes dudas";
+"info.version" = "Versión %@";
+"info.settings" = "Configuración";
+"info.haptics" = "Vibración háptica";
+
+"kind.castle" = "Castillos";
+"kind.watchtower" = "Atalayas";
+"kind.bell" = "Campanarios";
+"kind.clock" = "Torres reloj";
+"kind.fortress" = "Fortalezas";
+"kind.lighthouse" = "Faros";
+"kind.medieval" = "Medievales";
+
+"era.ancient" = "Antigüedad";
+"era.medieval" = "Edad Media";
+"era.renaissance" = "Renacimiento";
+"era.earlyModern" = "Edad Moderna";

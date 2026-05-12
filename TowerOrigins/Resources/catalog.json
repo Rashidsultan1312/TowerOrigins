@@ -1,0 +1,2453 @@
+[
+  {
+    "id": "tower-of-london",
+    "name": "Tower of London",
+    "kind": "castle",
+    "era": "medieval",
+    "location": "London, England",
+    "centuryLabel": "11th century",
+    "brief": "A Norman fortress on the north bank of the Thames founded by William the Conqueror, symbol of royal power for nearly a thousand years.",
+    "fact": "By tradition, the ravens of the Tower must never leave: legend says the Crown will fall if they ever do.",
+    "imageName": "tower_of_london",
+    "popularityRank": 1,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Norman White Tower",
+        "description": "Around 1078 William the Conqueror raised the central keep in pale Caen stone on a square plan."
+      },
+      {
+        "order": 2,
+        "title": "Inner curtain wall",
+        "description": "Henry III enclosed the fortress with the first ring of walls and thirteen towers."
+      },
+      {
+        "order": 3,
+        "title": "Outer wall and moat",
+        "description": "Edward I added a second ring of walls and a wide moat fed by the Thames."
+      },
+      {
+        "order": 4,
+        "title": "Modern adaptations",
+        "description": "Through the 16th to 19th centuries the interiors were rebuilt as residence, prison and royal mint."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "White Tower keep",
+        "description": "The Norman keep contains the Chapel of St John and the original royal hall."
+      },
+      {
+        "title": "Crown Jewels",
+        "description": "The Jewel House safeguards the British regalia behind armoured glass."
+      },
+      {
+        "title": "Royal armoury",
+        "description": "Halls of armour, swords and cannon trace the evolution of royal weaponry."
+      },
+      {
+        "title": "Tower Green",
+        "description": "The inner courtyard where high-ranking prisoners were privately executed."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1078",
+        "description": "Construction of the White Tower begins under William the Conqueror."
+      },
+      {
+        "year": "1483",
+        "description": "The Princes in the Tower disappear within its walls, an unsolved mystery."
+      },
+      {
+        "year": "1536",
+        "description": "Anne Boleyn is executed on Tower Green by order of Henry VIII."
+      },
+      {
+        "year": "1988",
+        "description": "UNESCO inscribes the Tower of London as a World Heritage Site."
+      }
+    ]
+  },
+  {
+    "id": "tower-of-hercules",
+    "name": "Tower of Hercules",
+    "kind": "lighthouse",
+    "era": "ancient",
+    "location": "A Coruña, Spain",
+    "centuryLabel": "2nd century",
+    "brief": "The only Roman lighthouse still in use as a navigational aid, raised under Emperor Trajan on an Atlantic headland.",
+    "fact": "It has guided ships for almost two thousand years and was inscribed by UNESCO in 2009 for that uninterrupted service.",
+    "imageName": "tower_of_hercules",
+    "popularityRank": 2,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Roman core",
+        "description": "Around AD 100 the architect Gaius Sevius Lupus built a square three-tier ashlar core."
+      },
+      {
+        "order": 2,
+        "title": "External spiral ramp",
+        "description": "An outer ramp let workers carry firewood and oil up to the burning beacon at the top."
+      },
+      {
+        "order": 3,
+        "title": "Medieval repairs",
+        "description": "Localised reinforcements through the Middle Ages kept the navigational fire alive."
+      },
+      {
+        "order": 4,
+        "title": "Neoclassical refit of 1791",
+        "description": "Engineer Eustaquio Giannini wrapped the Roman core in new ashlar without disturbing the original fabric."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Visible Roman core",
+        "description": "Inside, original 2nd century walls and vaults survive intact."
+      },
+      {
+        "title": "Modern stair",
+        "description": "A steel stair climbs through the core to the lantern, alongside the remains of the old ramp."
+      },
+      {
+        "title": "Interpretation hall",
+        "description": "Panels explain how the Roman lighthouse worked and how it evolved."
+      },
+      {
+        "title": "Active lantern",
+        "description": "The lighthouse still flashes for ships entering the port of A Coruña."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "c. 110",
+        "description": "Built under Emperor Trajan, attested by an inscription dedicated to Mars."
+      },
+      {
+        "year": "1791",
+        "description": "Neoclassical restoration encloses the Roman core without destroying it."
+      },
+      {
+        "year": "2009",
+        "description": "Declared a UNESCO World Heritage Site as a working Roman lighthouse."
+      },
+      {
+        "year": null,
+        "description": "It rises 55 metres tall on a 57 metre cliff above the Atlantic."
+      }
+    ]
+  },
+  {
+    "id": "giralda",
+    "name": "La Giralda",
+    "kind": "bell",
+    "era": "medieval",
+    "location": "Seville, Spain",
+    "centuryLabel": "12th century",
+    "brief": "Once the minaret of Seville's Almohad great mosque, later turned into the bell tower of the Christian cathedral.",
+    "fact": "Instead of stairs, the muezzin could ride a horse all the way to the top thanks to a long internal ramp.",
+    "imageName": "giralda",
+    "popularityRank": 3,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Almohad foundations",
+        "description": "In 1184 Caliph Abu Yaqub Yusuf orders the minaret; foundations reuse Visigothic and Roman stones."
+      },
+      {
+        "order": 2,
+        "title": "Decorated brick shaft",
+        "description": "Brick panels in sebka pattern and twin arched windows decorate every face."
+      },
+      {
+        "order": 3,
+        "title": "Renaissance bell stage",
+        "description": "Hernán Ruiz II adds the Christian belfry, lantern and weather vane in 1568."
+      },
+      {
+        "order": 4,
+        "title": "El Giraldillo",
+        "description": "A bronze figure of Faith crowns the tower and rotates with the wind, giving the tower its name."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Ramps instead of stairs",
+        "description": "Thirty-five ramp sections allow a comfortable climb to the bell stage."
+      },
+      {
+        "title": "Bell chamber",
+        "description": "Twenty-four bronze bells, each with its own name, mark the hours and feast days."
+      },
+      {
+        "title": "Viewpoint over Seville",
+        "description": "From the top the historic centre, the Alcazar and the Guadalquivir spread out below."
+      },
+      {
+        "title": "Original minaret traces",
+        "description": "The base shows the Almohad walls and brick decoration of the original minaret."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1184",
+        "description": "Construction begins as the minaret of the Almohad Friday mosque."
+      },
+      {
+        "year": "1248",
+        "description": "Following the Christian conquest of Seville the tower is reused as a Christian belfry."
+      },
+      {
+        "year": "1568",
+        "description": "The bell stage is finished and the Giraldillo weathervane is set in place."
+      },
+      {
+        "year": null,
+        "description": "It stands 96 metres tall and was for centuries the tallest tower in Europe."
+      }
+    ]
+  },
+  {
+    "id": "belem-tower",
+    "name": "Belém Tower",
+    "kind": "fortress",
+    "era": "renaissance",
+    "location": "Lisbon, Portugal",
+    "centuryLabel": "16th century",
+    "brief": "A Manueline bastion at the mouth of the Tagus, built to defend Lisbon's harbour and to serve as a ceremonial gate for the explorers.",
+    "fact": "It originally stood in the middle of the river; centuries of silting brought the bank gradually up to the tower.",
+    "imageName": "belem_tower",
+    "popularityRank": 4,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Artillery platform",
+        "description": "Between 1514 and 1519 a hexagonal bastion with cannon ports is built at water level."
+      },
+      {
+        "order": 2,
+        "title": "Manueline tower",
+        "description": "A four-storey tower rises above the bastion with balconies, turrets and maritime carving."
+      },
+      {
+        "order": 3,
+        "title": "Manueline decoration",
+        "description": "Stone ropes, armillary spheres and Crosses of the Order of Christ adorn the cornices and windows."
+      },
+      {
+        "order": 4,
+        "title": "19th century restoration",
+        "description": "After serving as prison and customs post the tower is restored to recover its original Manueline look."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Governor's hall",
+        "description": "Stone-fireplace room with windows overlooking the estuary."
+      },
+      {
+        "title": "King's hall",
+        "description": "Gothic vaulted hall where the garrison's small arms were stored."
+      },
+      {
+        "title": "Chapel",
+        "description": "A small chapel with a ribbed vault decorated with Manueline motifs."
+      },
+      {
+        "title": "Battlement terrace",
+        "description": "Open terrace with views of the river and the nearby Jerónimos Monastery."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1514",
+        "description": "King Manuel I commissions the tower from Francisco de Arruda to defend the Tagus."
+      },
+      {
+        "year": "1580",
+        "description": "After the Iberian Union the tower serves as a military post and later a political prison."
+      },
+      {
+        "year": "1840",
+        "description": "Restoration begins to recover Manueline elements lost over the centuries."
+      },
+      {
+        "year": "1983",
+        "description": "Inscribed as a UNESCO World Heritage Site together with the Jerónimos Monastery."
+      }
+    ]
+  },
+  {
+    "id": "torre-del-oro",
+    "name": "Torre del Oro",
+    "kind": "watchtower",
+    "era": "medieval",
+    "location": "Seville, Spain",
+    "centuryLabel": "13th century",
+    "brief": "A twelve-sided albarrana tower on the Guadalquivir, built by the Almohads to control entry into the river port of Seville.",
+    "fact": "Its name may come from the golden reflection of glazed tiles that once covered its dome.",
+    "imageName": "torre_del_oro",
+    "popularityRank": 5,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "River foundations",
+        "description": "Around 1220 the dodecagonal first body was raised on stone and lime to resist the Guadalquivir floods."
+      },
+      {
+        "order": 2,
+        "title": "Almohad main body",
+        "description": "Rammed earth walls reinforced with ashlar form twelve identical sides."
+      },
+      {
+        "order": 3,
+        "title": "Christian second body",
+        "description": "King Pedro I added the hexagonal middle body in the 14th century, also on a polygonal plan."
+      },
+      {
+        "order": 4,
+        "title": "18th century lantern",
+        "description": "Sebastián Van der Borcht crowned the tower with a cylindrical body and dome after the 1755 Lisbon earthquake."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Vaulted ground floor",
+        "description": "Stone ribbed vault that served as a store room and to control the river chain."
+      },
+      {
+        "title": "Spiral stair",
+        "description": "A narrow stair within the wall climbs through all three bodies to the lantern."
+      },
+      {
+        "title": "Naval museum",
+        "description": "Today it houses ship models, navigation instruments and engravings on Seville's maritime history."
+      },
+      {
+        "title": "Upper viewpoint",
+        "description": "From the dome the river and the nearby Maestranza bullring are visible."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1220",
+        "description": "Almohad governor Abu l-Ulà orders its construction to defend the river port."
+      },
+      {
+        "year": "1248",
+        "description": "After the Christian conquest the tower joins the military precinct of the Castilian fleet."
+      },
+      {
+        "year": "1755",
+        "description": "The Lisbon earthquake damages the tower, which is later crowned with the present Baroque lantern."
+      },
+      {
+        "year": "1936",
+        "description": "The naval museum opens inside the tower and remains active today."
+      }
+    ]
+  },
+  {
+    "id": "leaning-tower-pisa",
+    "name": "Leaning Tower of Pisa",
+    "kind": "bell",
+    "era": "medieval",
+    "location": "Pisa, Italy",
+    "centuryLabel": "12th century",
+    "brief": "Free-standing campanile of Pisa Cathedral, famous for the dramatic tilt caused by the soft soil beneath its foundations.",
+    "fact": "It started leaning during construction, forcing the upper storeys to be built with a deliberate counter-curve.",
+    "imageName": "leaning_tower_pisa",
+    "popularityRank": 6,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "First storey (1173)",
+        "description": "Work begins with a solid white marble base and blind arcades."
+      },
+      {
+        "order": 2,
+        "title": "Pause for the lean",
+        "description": "After three storeys construction halts for nearly a century when the tilt becomes visible."
+      },
+      {
+        "order": 3,
+        "title": "Compensating curve",
+        "description": "Giovanni di Simone resumes the work, slightly bending the upper floors to offset the tilt."
+      },
+      {
+        "order": 4,
+        "title": "Belfry crown",
+        "description": "In 1372 Tommaso di Andrea Pisano completes the tower with the bell chamber."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Spiral stair",
+        "description": "294 marble steps wind through the wall to the upper galleries."
+      },
+      {
+        "title": "Open galleries",
+        "description": "Arched galleries on each storey lighten the load on the foundations."
+      },
+      {
+        "title": "Bell chamber",
+        "description": "Seven bells tuned to the medieval musical modes hang at the top."
+      },
+      {
+        "title": "Views over the Square of Miracles",
+        "description": "From the top, the cathedral and baptistery spread below."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1173",
+        "description": "Bonanno Pisano begins work on the campanile."
+      },
+      {
+        "year": "1372",
+        "description": "Construction is finally completed with the bell chamber after almost two centuries."
+      },
+      {
+        "year": "1990",
+        "description": "The tower is closed to the public to begin major stabilisation works."
+      },
+      {
+        "year": "2001",
+        "description": "It reopens after engineers correct part of the tilt without removing it altogether."
+      }
+    ]
+  },
+  {
+    "id": "big-ben",
+    "name": "Big Ben",
+    "kind": "clock",
+    "era": "earlyModern",
+    "location": "London, England",
+    "centuryLabel": "19th century",
+    "brief": "The clock tower of the Palace of Westminster, seat of the British Parliament and a landmark of Victorian Gothic Revival.",
+    "fact": "Big Ben is actually the name of the great bell; the tower itself has been officially called the Elizabeth Tower since 2012.",
+    "imageName": "big_ben",
+    "popularityRank": 7,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Gothic Revival design",
+        "description": "Charles Barry and Augustus Pugin design the tower after the 1834 fire that destroyed the old palace."
+      },
+      {
+        "order": 2,
+        "title": "Iron skeleton",
+        "description": "A wrought-iron skeleton is built and clad in Anston limestone."
+      },
+      {
+        "order": 3,
+        "title": "Clock mechanism",
+        "description": "Edmund Beckett Denison and Edward Dent design the great clock, installed in 1859."
+      },
+      {
+        "order": 4,
+        "title": "2017–2022 restoration",
+        "description": "Five years of works restore gilding, dials and mechanism to their original state."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Mechanism room",
+        "description": "Brass and iron gears whose speed is fine-tuned by adding or removing pennies on the pendulum."
+      },
+      {
+        "title": "Bell chamber",
+        "description": "Five bells, including Big Ben itself which weighs over 13 tonnes."
+      },
+      {
+        "title": "Clock dials",
+        "description": "Four opaline dials lit from behind through Birmingham glass panels."
+      },
+      {
+        "title": "Maintenance walkway",
+        "description": "A walkway gives access to the dials for cleaning and repairs."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1859",
+        "description": "The clock first chimes from the new tower."
+      },
+      {
+        "year": "1941",
+        "description": "The clock chamber survives Nazi bombing while parts of Parliament collapse."
+      },
+      {
+        "year": "2012",
+        "description": "The tower is renamed Elizabeth Tower in honour of the Queen's Jubilee."
+      },
+      {
+        "year": "2022",
+        "description": "Public visits resume after the major restoration."
+      }
+    ]
+  },
+  {
+    "id": "eiffel-tower",
+    "name": "Eiffel Tower",
+    "kind": "watchtower",
+    "era": "earlyModern",
+    "location": "Paris, France",
+    "centuryLabel": "19th century",
+    "brief": "A wrought-iron lattice tower built for the 1889 World's Fair, becoming an icon of late nineteenth century engineering.",
+    "fact": "It was meant to be dismantled after twenty years but was saved when a military telegraphy antenna was installed at the top.",
+    "imageName": "eiffel_tower",
+    "popularityRank": 8,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Four foundation pillars",
+        "description": "Each pillar rests on a concrete block with inclined iron feet to absorb the load."
+      },
+      {
+        "order": 2,
+        "title": "First platform",
+        "description": "The first level was completed in March 1888 using steam-powered cranes."
+      },
+      {
+        "order": 3,
+        "title": "Second platform and arch",
+        "description": "The four legs join into an iron arch that supports the second platform."
+      },
+      {
+        "order": 4,
+        "title": "Summit and lantern",
+        "description": "The final section is bolted in place piece by piece, reaching 312 metres, the world record in 1889."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Eastern pillar",
+        "description": "Holds the original Otis hydraulic lifts now updated with modern controls."
+      },
+      {
+        "title": "Jules Verne restaurant",
+        "description": "Panoramic restaurant on the second platform with views over Paris."
+      },
+      {
+        "title": "Eiffel's office",
+        "description": "At the top, Gustave Eiffel's private office where he hosted distinguished guests is preserved."
+      },
+      {
+        "title": "Radio antennas",
+        "description": "Television and radio transmission equipment crown the structure."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1889",
+        "description": "Inaugurated for the World's Fair celebrating the centenary of the French Revolution."
+      },
+      {
+        "year": "1909",
+        "description": "A military antenna saves the tower from its scheduled demolition."
+      },
+      {
+        "year": "1957",
+        "description": "Television antennas add 24 metres to its height."
+      },
+      {
+        "year": null,
+        "description": "It welcomes around 7 million visitors a year."
+      }
+    ]
+  },
+  {
+    "id": "galata-tower",
+    "name": "Galata Tower",
+    "kind": "watchtower",
+    "era": "medieval",
+    "location": "Istanbul, Turkey",
+    "centuryLabel": "14th century",
+    "brief": "A cylindrical stone tower built by the Genoese in the Pera quarter to watch over the Golden Horn.",
+    "fact": "Legend has it that in the 17th century Hezârfen Ahmed Çelebi flew from the tower with home-made wings across the Bosphorus.",
+    "imageName": "galata_tower",
+    "popularityRank": 9,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Byzantine base",
+        "description": "An older Byzantine fortlet provided the foundation for the Genoese tower."
+      },
+      {
+        "order": 2,
+        "title": "Genoese stone shaft",
+        "description": "Around 1348 the Genoese raised the main stone tower to defend their colony."
+      },
+      {
+        "order": 3,
+        "title": "Ottoman adaptation",
+        "description": "After 1453 the Ottomans used it as a watchtower and a prison."
+      },
+      {
+        "order": 4,
+        "title": "Conical roof",
+        "description": "In the 19th century the conical lead roof that defines its silhouette today was added."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Modern spiral stair",
+        "description": "A renewed staircase gives access to the upper floors alongside a lift."
+      },
+      {
+        "title": "Historic café",
+        "description": "Intermediate floors host a café and exhibition spaces."
+      },
+      {
+        "title": "Panoramic gallery",
+        "description": "From the top gallery the Bosphorus, Hagia Sophia and the Golden Horn unfold in every direction."
+      },
+      {
+        "title": "Exhibition hall",
+        "description": "Models and panels explain the Genoese and Ottoman history of the neighbourhood."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1348",
+        "description": "The Genoese build it as Christea Turris, the Tower of Christ."
+      },
+      {
+        "year": "1453",
+        "description": "After the conquest of Constantinople the tower passes to the Ottoman Empire."
+      },
+      {
+        "year": "1632",
+        "description": "Hezârfen's legendary flight from the tower across the Bosphorus."
+      },
+      {
+        "year": "2020",
+        "description": "The tower reopens after a full restoration of body and roof."
+      }
+    ]
+  },
+  {
+    "id": "hassan-tower",
+    "name": "Hassan Tower",
+    "kind": "bell",
+    "era": "medieval",
+    "location": "Rabat, Morocco",
+    "centuryLabel": "12th century",
+    "brief": "Unfinished minaret of an Almohad mosque that Sultan Yacub al-Mansur intended as the largest in the Islamic world.",
+    "fact": "It was meant to reach 86 metres tall, but the death of the sultan in 1199 left the work permanently halted.",
+    "imageName": "hassan_tower",
+    "popularityRank": 10,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Layout of the precinct",
+        "description": "Around 1191 a mosque of 183 by 139 metres with 348 columns was planned."
+      },
+      {
+        "order": 2,
+        "title": "Foundations of the minaret",
+        "description": "The minaret rose in red sandstone ashlar, similar in style to the Marrakech minarets."
+      },
+      {
+        "order": 3,
+        "title": "Sebka decoration",
+        "description": "Each face of the minaret carries panels of sebka and polylobed arches."
+      },
+      {
+        "order": 4,
+        "title": "Interrupted work",
+        "description": "When Sultan Yacub al-Mansur died in 1199 work stopped at the present 44 metres."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Internal ramp",
+        "description": "Like other Almohad towers, an internal ramp let one ride up on horseback."
+      },
+      {
+        "title": "Vaulted halls",
+        "description": "Internal halls preserve their original stone groin vaults."
+      },
+      {
+        "title": "Forest of column stumps",
+        "description": "Beside the tower stand the truncated columns intended for the prayer hall."
+      },
+      {
+        "title": "Nearby mausoleum",
+        "description": "Facing the tower, the modern Mausoleum of Mohammed V completes the monumental ensemble."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1191",
+        "description": "Almohad Sultan Yacub al-Mansur orders its construction."
+      },
+      {
+        "year": "1199",
+        "description": "The sultan dies and work stops for good."
+      },
+      {
+        "year": "1755",
+        "description": "The Lisbon earthquake topples many columns but the tower itself stands."
+      },
+      {
+        "year": "2012",
+        "description": "UNESCO inscribes the site as part of the World Heritage of Rabat."
+      }
+    ]
+  },
+  {
+    "id": "lighthouse-of-alexandria",
+    "name": "Lighthouse of Alexandria",
+    "kind": "lighthouse",
+    "era": "ancient",
+    "location": "Alexandria, Egypt",
+    "centuryLabel": "3rd century BC",
+    "brief": "One of the Seven Wonders of the Ancient World, raised on the island of Pharos to guide sailors into the harbour of Alexandria.",
+    "fact": "Its name, Pharos, became the word for lighthouse in many European languages.",
+    "imageName": "lighthouse_of_alexandria",
+    "popularityRank": 11,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Hellenistic design",
+        "description": "Sostratus of Cnidus designed the lighthouse under Ptolemy I and II, around 280 BC."
+      },
+      {
+        "order": 2,
+        "title": "Square base",
+        "description": "A square base roughly 30 metres tall sat on the island of Pharos."
+      },
+      {
+        "order": 3,
+        "title": "Octagonal tier",
+        "description": "A second octagonal tier rose above the square base."
+      },
+      {
+        "order": 4,
+        "title": "Cylindrical lantern",
+        "description": "The top cylindrical level held a fire and, according to ancient writers, mirrors that boosted its light."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Service ramps",
+        "description": "Internal ramps let workers carry fuel up to the burning beacon."
+      },
+      {
+        "title": "Keepers' quarters",
+        "description": "Rooms across the levels housed the garrison and the lighthouse staff."
+      },
+      {
+        "title": "Lantern hall",
+        "description": "Crowned, according to ancient sources, by a colossal statue, possibly of Zeus or Poseidon."
+      },
+      {
+        "title": "Bronze reflectors",
+        "description": "Arab sources describe polished mirrors that increased the light's range over the sea."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "c. 280 BC",
+        "description": "Inaugurated under Ptolemy II of Egypt."
+      },
+      {
+        "year": "956",
+        "description": "A major earthquake causes the first severe damage."
+      },
+      {
+        "year": "1303",
+        "description": "Another earthquake brings down most of the structure."
+      },
+      {
+        "year": "1480",
+        "description": "Its remains are reused to build the Qaitbay fortress on the same island."
+      }
+    ]
+  },
+  {
+    "id": "mudejar-tower-teruel",
+    "name": "El Salvador Tower",
+    "kind": "bell",
+    "era": "medieval",
+    "location": "Teruel, Spain",
+    "centuryLabel": "14th century",
+    "brief": "The Mudejar bell tower of the church of El Salvador in Teruel, a leading example of Aragonese Mudejar art in brick and ceramic.",
+    "fact": "Its outer skin of green and white glazed tiles makes it almost a twin of the nearby Tower of San Martín.",
+    "imageName": "mudejar_tower_teruel",
+    "popularityRank": 12,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Pass-through base",
+        "description": "The tower rises over an arched passage so as not to block the street, a hallmark of Teruel Mudejar."
+      },
+      {
+        "order": 2,
+        "title": "Concentric inner tower",
+        "description": "Inside there is a second concentric tower, with the staircase running between the two shells."
+      },
+      {
+        "order": 3,
+        "title": "Ceramic decoration",
+        "description": "Panels of glazed ceramic with geometric motifs cover the entire exterior."
+      },
+      {
+        "order": 4,
+        "title": "Bell stage",
+        "description": "Crowned by a stage of round-arched openings where the bells hang."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Double concentric tower",
+        "description": "An internal layout that recalls the Kutubia Mosque minaret in Marrakech."
+      },
+      {
+        "title": "Stair between the walls",
+        "description": "A narrow stair climbs in the gap between the outer and inner shells."
+      },
+      {
+        "title": "Exhibition space",
+        "description": "Museum spaces explain the Islamic influence on Aragonese Mudejar art."
+      },
+      {
+        "title": "Viewpoint over Teruel",
+        "description": "From the top, the old town and the other Mudejar monuments are visible."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1315",
+        "description": "Construction begins under Christian rule of the Kingdom of Aragon."
+      },
+      {
+        "year": "1986",
+        "description": "UNESCO inscribes the Mudejar of Teruel as a World Heritage Site."
+      },
+      {
+        "year": "2001",
+        "description": "The inscription is later expanded to cover all Aragonese Mudejar."
+      },
+      {
+        "year": null,
+        "description": "It rises about 40 metres and closely resembles the Tower of San Martín."
+      }
+    ]
+  },
+  {
+    "id": "prague-clock-tower",
+    "name": "Prague Astronomical Clock Tower",
+    "kind": "clock",
+    "era": "medieval",
+    "location": "Prague, Czechia",
+    "centuryLabel": "15th century",
+    "brief": "Tower of the Old Town Hall in Prague, famous for an astronomical clock that displays the motion of the sun and moon.",
+    "fact": "Every hour the windows above the dial open and the twelve apostles parade in front of locals and tourists.",
+    "imageName": "prague_clock_tower",
+    "popularityRank": 13,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Gothic construction",
+        "description": "Around 1338 the tower rises as the seat of the Old Town municipal council."
+      },
+      {
+        "order": 2,
+        "title": "Astronomical clock (1410)",
+        "description": "Clockmaker Mikulás of Kadan and mathematician Jan Sindel design the original astronomical clock."
+      },
+      {
+        "order": 3,
+        "title": "Manes calendar (1866)",
+        "description": "Painter Josef Manes creates the second dial with scenes of the months."
+      },
+      {
+        "order": 4,
+        "title": "Restoration after 1945",
+        "description": "After damage in the Second World War the clock is repaired and the figures renewed."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Gothic council hall",
+        "description": "Star-vaulted hall in the former plenary chamber of the Old Town council."
+      },
+      {
+        "title": "Mechanism of the Orloj",
+        "description": "Gears and zodiacal discs that drive the clock and the figures of the apostles."
+      },
+      {
+        "title": "Gothic chapel",
+        "description": "Chapel with restored stained glass inside the main body of the tower."
+      },
+      {
+        "title": "Viewpoint over the square",
+        "description": "From the upper gallery the entire Old Town Square unfolds below."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1410",
+        "description": "The astronomical clock is built, considered the oldest still working in the world."
+      },
+      {
+        "year": "1490",
+        "description": "The circular calendar and moving figures are added."
+      },
+      {
+        "year": "1945",
+        "description": "The tower suffers serious damage at the end of the Second World War."
+      },
+      {
+        "year": "2018",
+        "description": "After a major restoration its mechanism and historic appearance are recovered."
+      }
+    ]
+  },
+  {
+    "id": "coca-castle",
+    "name": "Coca Castle",
+    "kind": "castle",
+    "era": "medieval",
+    "location": "Segovia, Spain",
+    "centuryLabel": "15th century",
+    "brief": "A Mudejar brick castle raised by the Fonseca family in the Segovian town of Coca, considered a masterpiece of late Hispanic Gothic.",
+    "fact": "It barely had any military use: it was built more as a palatial fortress to display the wealth of Archbishop Alonso de Fonseca.",
+    "imageName": "coca_castle",
+    "popularityRank": 14,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Moat and outer barrier",
+        "description": "A wide dry moat is dug and an outer barrier with pentagonal towers is raised."
+      },
+      {
+        "order": 2,
+        "title": "Main precinct",
+        "description": "Around 1473 Mudejar masters raise the main body with four corner towers."
+      },
+      {
+        "order": 3,
+        "title": "Keep tower",
+        "description": "The square keep rises above the rest of the precinct in the northern corner."
+      },
+      {
+        "order": 4,
+        "title": "Mudejar decoration",
+        "description": "Bands of brick, sebka and lozenges cover every surface with geometric motifs."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Inner courtyard",
+        "description": "Central courtyard with double-height galleries and lowered arches."
+      },
+      {
+        "title": "Chapel",
+        "description": "Rib vault from the 15th century with Mudejar plasterwork."
+      },
+      {
+        "title": "Noble halls",
+        "description": "Rooms with carved wooden ceilings made for the Fonseca lineage."
+      },
+      {
+        "title": "Dungeons",
+        "description": "Small cellar cells served as prison and storage."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1473",
+        "description": "Construction begins by order of Archbishop Alonso de Fonseca."
+      },
+      {
+        "year": "1521",
+        "description": "The castle suffers damage during the War of the Castilian Communities."
+      },
+      {
+        "year": "1958",
+        "description": "It becomes the seat of a State forestry school."
+      },
+      {
+        "year": null,
+        "description": "It is listed as a Cultural Asset and a National Monument."
+      }
+    ]
+  },
+  {
+    "id": "tavira-tower",
+    "name": "Tavira Tower",
+    "kind": "watchtower",
+    "era": "earlyModern",
+    "location": "Cádiz, Spain",
+    "centuryLabel": "18th century",
+    "brief": "Lookout tower of the former palace of the Marquises of Recaño, officially appointed as the watchtower of the port of Cádiz.",
+    "fact": "Inside it works the only active camera obscura in Spain, which projects the city in real time onto a concave screen.",
+    "imageName": "tavira_tower",
+    "popularityRank": 15,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Recaño palace",
+        "description": "The palace is built in the 18th century with the tower as its tallest element."
+      },
+      {
+        "order": 2,
+        "title": "Merchants' lookout",
+        "description": "The towers of Cádiz let merchants watch ships arriving in the harbour."
+      },
+      {
+        "order": 3,
+        "title": "Royal designation (1778)",
+        "description": "King Charles III names it the official watchtower of the port as the highest in the old town."
+      },
+      {
+        "order": 4,
+        "title": "Camera obscura (1994)",
+        "description": "A camera obscura is installed under the dome, projecting the city through mirrors and lenses."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Camera obscura room",
+        "description": "A darkened room projects the live image of the city onto a concave white surface."
+      },
+      {
+        "title": "Exhibition halls",
+        "description": "Two floors trace the history of the watchtowers of Cádiz."
+      },
+      {
+        "title": "Upper terrace",
+        "description": "Lookout 45 metres above sea level with views of the entire city and the bay."
+      },
+      {
+        "title": "Model of Cádiz",
+        "description": "A scale model shows the location of the original 126 watchtowers of the city."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1778",
+        "description": "King Charles III names it the official watchtower of the port of Cádiz."
+      },
+      {
+        "year": "1853",
+        "description": "Over 160 watchtowers are recorded in the old town of Cádiz."
+      },
+      {
+        "year": "1994",
+        "description": "The camera obscura is inaugurated, the first of its kind in Spain."
+      },
+      {
+        "year": null,
+        "description": "The tower reaches 45 metres above sea level and dominates the entire city."
+      }
+    ]
+  },
+  {
+    "id": "himeji-castle",
+    "name": "Himeji Castle",
+    "kind": "castle",
+    "era": "medieval",
+    "location": "Himeji, Japan",
+    "centuryLabel": "14th century",
+    "brief": "Hilltop Japanese castle nicknamed the White Heron for its brilliant white plaster, the most visited and best preserved feudal castle in Japan.",
+    "fact": "The complex contains 83 wooden buildings and survived the firebombing of Himeji in 1945 untouched.",
+    "imageName": "himeji_castle",
+    "popularityRank": 16,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Akamatsu fortress (1333)",
+        "description": "Akamatsu Norimura builds the first fortifications on Himeyama hill."
+      },
+      {
+        "order": 2,
+        "title": "Toyotomi expansion (1581)",
+        "description": "Toyotomi Hideyoshi raises a three-storey keep on the existing fort."
+      },
+      {
+        "order": 3,
+        "title": "Ikeda main keep (1609)",
+        "description": "Ikeda Terumasa rebuilds the castle on its present grand scale with the six-storey main keep."
+      },
+      {
+        "order": 4,
+        "title": "Heisei restoration (2009-2015)",
+        "description": "A six-year restoration replaces roof tiles and white plaster, restoring the heron-white look."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Main keep stairs",
+        "description": "Six narrow wooden floors connected by steep ladders climb to a small shrine at the top."
+      },
+      {
+        "title": "Stone-throwing platforms",
+        "description": "Hidden balconies above gates allowed defenders to drop stones on attackers."
+      },
+      {
+        "title": "Princess Sen's quarters",
+        "description": "Wooden private apartments connected to the West Bailey by a long corridor."
+      },
+      {
+        "title": "Loophole grid",
+        "description": "Hundreds of triangular and circular loopholes pierce the walls for archers and gunners."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1333",
+        "description": "Akamatsu Norimura builds the first fortification on Himeyama hill."
+      },
+      {
+        "year": "1609",
+        "description": "Ikeda Terumasa completes the great keep that survives today."
+      },
+      {
+        "year": "1993",
+        "description": "Inscribed as one of Japan's first UNESCO World Heritage Sites."
+      },
+      {
+        "year": "2015",
+        "description": "Reopens after the Heisei era restoration."
+      }
+    ]
+  },
+  {
+    "id": "edinburgh-castle",
+    "name": "Edinburgh Castle",
+    "kind": "castle",
+    "era": "medieval",
+    "location": "Edinburgh, Scotland",
+    "centuryLabel": "12th century",
+    "brief": "Royal fortress on the volcanic Castle Rock above central Edinburgh, occupied since the Iron Age and a key seat of the Scottish crown.",
+    "fact": "It is one of the most besieged places in Britain — at least 26 documented sieges have battered its walls.",
+    "imageName": "edinburgh_castle",
+    "popularityRank": 17,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Iron Age fort",
+        "description": "Earliest occupation on Castle Rock dates to the 2nd century AD."
+      },
+      {
+        "order": 2,
+        "title": "St Margaret's Chapel (1130)",
+        "description": "King David I builds the small Romanesque chapel that is the oldest surviving building in Edinburgh."
+      },
+      {
+        "order": 3,
+        "title": "David's Tower (1370s)",
+        "description": "King David II raises the tall L-shaped keep that dominates the rock."
+      },
+      {
+        "order": 4,
+        "title": "Half-Moon Battery (1573)",
+        "description": "After the Lang Siege a curved artillery battery is built around the ruined David's Tower."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Crown Room",
+        "description": "Houses the Honours of Scotland — the crown, sceptre and sword of state."
+      },
+      {
+        "title": "Great Hall",
+        "description": "Hammer-beam roof from 1511 over the medieval banquet hall."
+      },
+      {
+        "year": null,
+        "title": "St Margaret's Chapel",
+        "description": "Tiny Romanesque chapel of 1130, the oldest building in Edinburgh."
+      },
+      {
+        "title": "Mons Meg",
+        "description": "Six-tonne medieval bombard cannon presented to James II in 1457."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1130",
+        "description": "St Margaret's Chapel is built — the oldest surviving structure."
+      },
+      {
+        "year": "1573",
+        "description": "After the Lang Siege the castle is largely rebuilt as a military fortress."
+      },
+      {
+        "year": "1818",
+        "description": "Walter Scott rediscovers the Honours of Scotland walled up in a chest."
+      },
+      {
+        "year": null,
+        "description": "Around 2 million visitors per year make it Scotland's most popular paid attraction."
+      }
+    ]
+  },
+  {
+    "id": "krak-des-chevaliers",
+    "name": "Krak des Chevaliers",
+    "kind": "fortress",
+    "era": "medieval",
+    "location": "Homs, Syria",
+    "centuryLabel": "12th century",
+    "brief": "Concentric Crusader fortress in western Syria, considered one of the most important preserved medieval castles in the world.",
+    "fact": "T. E. Lawrence called it 'the finest castle in the world, certainly the most picturesque'.",
+    "imageName": "krak_des_chevaliers",
+    "popularityRank": 18,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Kurdish fortress (1031)",
+        "description": "The Emir of Aleppo builds a small mountain fortress on the site."
+      },
+      {
+        "order": 2,
+        "title": "Hospitaller stronghold (1142)",
+        "description": "The Knights Hospitaller take over and rebuild the castle on a grand scale."
+      },
+      {
+        "order": 3,
+        "title": "Concentric defences (1170s)",
+        "description": "After earthquakes the fortress is rebuilt with two concentric rings of curtain walls."
+      },
+      {
+        "order": 4,
+        "title": "Outer glacis (13th c.)",
+        "description": "Massive sloped stone glacis is added around the inner walls to deflect siege weapons."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Inner ward halls",
+        "description": "Vaulted Gothic halls with a chapel converted into a mosque after 1271."
+      },
+      {
+        "title": "Loggia of Knights",
+        "description": "Elegant arcaded loggia overlooking the inner courtyard."
+      },
+      {
+        "title": "Great Hall",
+        "description": "Long ribbed-vault hall used for chapter meetings and feasts."
+      },
+      {
+        "title": "Storerooms",
+        "description": "Massive vaulted storerooms could feed 2000 men for five years of siege."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1142",
+        "description": "The Knights Hospitaller take over the castle and begin the great rebuild."
+      },
+      {
+        "year": "1271",
+        "description": "Sultan Baibars finally takes the castle by surrender after a brief siege."
+      },
+      {
+        "year": "2006",
+        "description": "Inscribed by UNESCO as a World Heritage Site."
+      },
+      {
+        "year": "2014",
+        "description": "Suffers some damage during the Syrian civil war but main structure survives."
+      }
+    ]
+  },
+  {
+    "id": "round-tower-copenhagen",
+    "name": "Round Tower",
+    "kind": "watchtower",
+    "era": "earlyModern",
+    "location": "Copenhagen, Denmark",
+    "centuryLabel": "17th century",
+    "brief": "Cylindrical 17th-century tower built by King Christian IV as an astronomical observatory, the oldest functioning observatory in Europe.",
+    "fact": "Inside, a 209-metre helical ramp climbs to the top — Tsar Peter the Great rode his horse up it in 1716.",
+    "imageName": "round_tower_copenhagen",
+    "popularityRank": 19,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Royal commission (1637)",
+        "description": "Christian IV commissions a tower attached to Trinitatis Church for astronomy."
+      },
+      {
+        "order": 2,
+        "title": "Cylindrical brick shaft",
+        "description": "The cylindrical brick shell rises with a wide internal helical ramp instead of stairs."
+      },
+      {
+        "order": 3,
+        "title": "Observation platform (1642)",
+        "description": "The tower is inaugurated with an open viewing platform on top."
+      },
+      {
+        "order": 4,
+        "title": "Modern observatory dome",
+        "description": "A small dome is added in the 19th century to house a refractor telescope."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Helical ramp",
+        "description": "A 209 metre brick ramp spirals seven and a half times to the top."
+      },
+      {
+        "title": "Library hall",
+        "description": "A vaulted hall above the church served as the university library."
+      },
+      {
+        "title": "Glass floor",
+        "description": "A modern transparent floor lets visitors look down 25 metres into the church loft."
+      },
+      {
+        "title": "Viewing platform",
+        "description": "Open platform with views over the rooftops of central Copenhagen."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1642",
+        "description": "Inaugurated by Christian IV as an astronomical observatory."
+      },
+      {
+        "year": "1716",
+        "description": "Tsar Peter the Great famously rides his horse up the spiral ramp."
+      },
+      {
+        "year": "1861",
+        "description": "The university observatory moves out, the platform stays open to the public."
+      },
+      {
+        "year": null,
+        "description": "Still the oldest working observatory in Europe."
+      }
+    ]
+  },
+  {
+    "id": "st-marks-campanile",
+    "name": "St Mark's Campanile",
+    "kind": "bell",
+    "era": "medieval",
+    "location": "Venice, Italy",
+    "centuryLabel": "12th century",
+    "brief": "Brick bell tower of St Mark's Basilica on Piazza San Marco, the tallest structure in Venice and a long-standing landmark of the lagoon.",
+    "fact": "The original tower collapsed without warning on 14 July 1902; the current one was rebuilt to look exactly the same and reopened in 1912.",
+    "imageName": "st_marks_campanile",
+    "popularityRank": 20,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Watchtower foundations (9th c.)",
+        "description": "Begun in the 9th century as a lighthouse and watchtower for the lagoon."
+      },
+      {
+        "order": 2,
+        "title": "Brick shaft (12th c.)",
+        "description": "The brick shaft reaches its present height by the 1100s."
+      },
+      {
+        "order": 3,
+        "title": "Loggetta (1549)",
+        "description": "Jacopo Sansovino adds the marble loggetta at the base."
+      },
+      {
+        "order": 4,
+        "title": "Reconstruction (1902-1912)",
+        "description": "After the collapse the tower is rebuilt identically with reinforced internal staircases."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Internal ramp",
+        "description": "Until 1902 a gentle internal ramp ran up the shaft; today there is a lift to the belfry."
+      },
+      {
+        "title": "Bell chamber",
+        "description": "Five bronze bells hang in the white stone belfry, each with its historical name."
+      },
+      {
+        "title": "Loggetta",
+        "description": "Sansovino's small Renaissance loggetta with bronze figures of pagan gods."
+      },
+      {
+        "title": "Viewpoint over the lagoon",
+        "description": "The terrace gives views over the lagoon to the Dolomites on a clear day."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1100",
+        "description": "The brick shaft reaches its full height."
+      },
+      {
+        "year": "1609",
+        "description": "Galileo Galilei demonstrates his telescope to the Doge from the belfry."
+      },
+      {
+        "year": "1902",
+        "description": "The medieval tower collapses without warning; no one is killed."
+      },
+      {
+        "year": "1912",
+        "description": "An identical reconstruction is inaugurated for the 1000th anniversary of the original."
+      }
+    ]
+  },
+  {
+    "id": "giottos-campanile",
+    "name": "Giotto's Campanile",
+    "kind": "bell",
+    "era": "medieval",
+    "location": "Florence, Italy",
+    "centuryLabel": "14th century",
+    "brief": "Free-standing Gothic bell tower of Florence Cathedral designed by the painter Giotto, clad in white, pink and green marble.",
+    "fact": "Giotto only lived to see the lowest level finished — the rest was completed by Andrea Pisano and Francesco Talenti.",
+    "imageName": "giottos_campanile",
+    "popularityRank": 21,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Giotto's first level (1334)",
+        "description": "Master painter Giotto designs the campanile and supervises the lowest hexagonal panels."
+      },
+      {
+        "order": 2,
+        "title": "Pisano (1337-1348)",
+        "description": "After Giotto's death Andrea Pisano continues the second register and the niches."
+      },
+      {
+        "order": 3,
+        "title": "Talenti's upper levels",
+        "description": "Francesco Talenti completes the upper stories and the projecting top platform."
+      },
+      {
+        "order": 4,
+        "title": "Final marble cladding (1359)",
+        "description": "The complete polychrome marble cladding is finished, with no spire as originally planned."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Stone stair",
+        "description": "414 steps wind through the wall to the open viewing terrace at the top."
+      },
+      {
+        "title": "Reliefs of human work",
+        "description": "The lowest hexagonal panels show the trades and arts of mankind."
+      },
+      {
+        "title": "Niches with prophets",
+        "description": "Donatello carved several of the prophets in the second-storey niches."
+      },
+      {
+        "title": "Top viewpoint",
+        "description": "Open terrace with views of Brunelleschi's dome at eye level."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1334",
+        "description": "Giotto begins the design as official architect of Florence."
+      },
+      {
+        "year": "1359",
+        "description": "Talenti finishes the campanile without the originally planned spire."
+      },
+      {
+        "year": "1965",
+        "description": "The original sculpted panels are moved to the cathedral museum, replaced by copies."
+      },
+      {
+        "year": "1982",
+        "description": "Inscribed as part of the Historic Centre of Florence UNESCO site."
+      }
+    ]
+  },
+  {
+    "id": "spasskaya-tower",
+    "name": "Spasskaya Tower",
+    "kind": "clock",
+    "era": "medieval",
+    "location": "Moscow, Russia",
+    "centuryLabel": "15th century",
+    "brief": "Main gateway tower of the Moscow Kremlin facing Red Square, crowned by the great Kremlin Clock and a glowing red ruby star.",
+    "fact": "The chimes of the Kremlin Clock are the official sound of the Russian New Year, broadcast every 31 December.",
+    "imageName": "spasskaya_tower",
+    "popularityRank": 22,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Italian gate tower (1491)",
+        "description": "Pietro Antonio Solari builds the brick gate tower as part of Ivan III's Kremlin walls."
+      },
+      {
+        "order": 2,
+        "title": "English clock (1626)",
+        "description": "Christopher Galloway installs the first English-made clock in the tower."
+      },
+      {
+        "order": 3,
+        "title": "Multi-tier spire (1625)",
+        "description": "The Russian-style tented spire is added over the original Italian gate tower."
+      },
+      {
+        "order": 4,
+        "title": "Ruby star (1937)",
+        "description": "A glowing five-pointed ruby star replaces the imperial double-headed eagle."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Gate of the Saviour",
+        "description": "Through the iconic of Christ on the outer side, the main ceremonial entrance to the Kremlin."
+      },
+      {
+        "title": "Clock mechanism room",
+        "description": "Houses the great mechanism that drives the four clock faces and the chimes."
+      },
+      {
+        "title": "Bell chamber",
+        "description": "Nine bronze bells play the Russian national anthem every three hours."
+      },
+      {
+        "title": "Watchman's gallery",
+        "description": "Wooden gallery used by the original gate guards."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1491",
+        "description": "Built by Pietro Antonio Solari as the main gate to the Kremlin."
+      },
+      {
+        "year": "1851",
+        "description": "The current clock mechanism by the Butenop brothers is installed."
+      },
+      {
+        "year": "1937",
+        "description": "The ruby star replaces the imperial eagle on the spire."
+      },
+      {
+        "year": "2000",
+        "description": "The bells are restored to chime the Russian national anthem."
+      }
+    ]
+  },
+  {
+    "id": "qutb-minar",
+    "name": "Qutb Minar",
+    "kind": "bell",
+    "era": "medieval",
+    "location": "Delhi, India",
+    "centuryLabel": "12th century",
+    "brief": "Tallest brick minaret in the world, begun in 1192 by Qutb-ud-din Aibak as a tower of victory next to the first mosque of Delhi.",
+    "fact": "The five tapering tiers were each built by a different sultan over more than 150 years.",
+    "imageName": "qutb_minar",
+    "popularityRank": 23,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Aibak's first tier (1192)",
+        "description": "Qutb-ud-din Aibak begins the minaret as a tower of victory next to the Quwwat-ul-Islam mosque."
+      },
+      {
+        "order": 2,
+        "title": "Iltutmish's expansion (1220)",
+        "description": "Sultan Iltutmish completes three more tiers, raising the tower to about 70 metres."
+      },
+      {
+        "order": 3,
+        "title": "Tughluq replacement (1369)",
+        "description": "After lightning damage Firuz Shah Tughluq rebuilds the top two tiers in marble and red sandstone."
+      },
+      {
+        "order": 4,
+        "title": "Smith's repairs (1828)",
+        "description": "British army engineer Robert Smith repairs the top tier, adding an unsuccessful Bengali-style cupola later removed."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Spiral stair",
+        "description": "379 stone steps spiral inside the minaret to the projecting balconies."
+      },
+      {
+        "title": "Carved bands",
+        "description": "Bands of Quranic calligraphy and decorative motifs run around each tier."
+      },
+      {
+        "title": "Iron Pillar nearby",
+        "description": "The 4th-century Iron Pillar in the courtyard has not rusted in over 1500 years."
+      },
+      {
+        "title": "Mosque ruins",
+        "description": "Surrounded by the ruins of the Quwwat-ul-Islam mosque, the first mosque built in Delhi."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1192",
+        "description": "Qutb-ud-din Aibak begins construction after his conquest of Delhi."
+      },
+      {
+        "year": "1369",
+        "description": "Lightning destroys the upper tiers; Firuz Shah Tughluq rebuilds them."
+      },
+      {
+        "year": "1981",
+        "description": "Closed to internal access after a stairwell stampede kills 45 people."
+      },
+      {
+        "year": "1993",
+        "description": "Inscribed by UNESCO as a World Heritage Site."
+      }
+    ]
+  },
+  {
+    "id": "kalyan-minaret",
+    "name": "Kalyan Minaret",
+    "kind": "bell",
+    "era": "medieval",
+    "location": "Bukhara, Uzbekistan",
+    "centuryLabel": "12th century",
+    "brief": "Tall brick minaret of the Po-i-Kalyan complex in Bukhara, considered one of the masterpieces of medieval Central Asian architecture.",
+    "fact": "Genghis Khan ordered Bukhara destroyed in 1220 but spared the minaret because he was so impressed by its beauty.",
+    "imageName": "kalyan_minaret",
+    "popularityRank": 24,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Karakhanid foundation (1127)",
+        "description": "Arslan Khan begins the minaret next to the Kalyan Mosque."
+      },
+      {
+        "order": 2,
+        "title": "Tapered brick shaft",
+        "description": "The shaft tapers from a 9 metre wide base to about 6 metres at the top, reaching 47 metres."
+      },
+      {
+        "order": 3,
+        "title": "Decorative belts",
+        "description": "Twelve horizontal belts of geometric brick patterns wrap the shaft, each different."
+      },
+      {
+        "order": 4,
+        "title": "Lantern (12th c.)",
+        "description": "An open arched lantern of sixteen windows is added on top with a small dome."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Spiral brick stair",
+        "description": "104 brick steps spiral inside the shaft to the lantern."
+      },
+      {
+        "title": "Glazed inscription band",
+        "description": "A turquoise glazed band near the top names the patron Arslan Khan."
+      },
+      {
+        "title": "Lantern",
+        "description": "Open belvedere with sixteen arched windows giving views over the Po-i-Kalyan square."
+      },
+      {
+        "title": "Connecting bridge",
+        "description": "A small covered bridge once linked the minaret to the roof of the mosque."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1127",
+        "description": "Arslan Khan completes the minaret after his earlier wooden tower collapsed."
+      },
+      {
+        "year": "1220",
+        "description": "Genghis Khan reportedly spares the minaret after sacking Bukhara."
+      },
+      {
+        "year": "1924",
+        "description": "Soviet authorities prohibit the call to prayer from the minaret."
+      },
+      {
+        "year": "1993",
+        "description": "Inscribed by UNESCO as part of the Historic Centre of Bukhara."
+      }
+    ]
+  },
+  {
+    "id": "cordouan-lighthouse",
+    "name": "Cordouan Lighthouse",
+    "kind": "lighthouse",
+    "era": "renaissance",
+    "location": "Gironde, France",
+    "centuryLabel": "16th century",
+    "brief": "Renaissance lighthouse on a rocky platform at the mouth of the Gironde estuary, often called the Versailles of the Sea.",
+    "fact": "Inside the second floor is a small chapel with a marble altar — sailors could attend Mass while waiting out storms.",
+    "imageName": "cordouan_lighthouse",
+    "popularityRank": 25,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Black Prince beacon (14th c.)",
+        "description": "An octagonal beacon by Edward the Black Prince once stood on the same shoal."
+      },
+      {
+        "order": 2,
+        "title": "Renaissance tower (1584-1611)",
+        "description": "Architect Louis de Foix builds the present ornate tower for Henri III and Henri IV."
+      },
+      {
+        "order": 3,
+        "title": "Royal additions (17th c.)",
+        "description": "King's apartment and chapel are decorated with carved pilasters and statues."
+      },
+      {
+        "order": 4,
+        "title": "Top tier raised (1789)",
+        "description": "Engineer Joseph Teulère rebuilds the upper tiers, adding 30 metres to the original height."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "King's apartment",
+        "description": "Reserved for royal visits, decorated with carved pilasters and a Latin inscription."
+      },
+      {
+        "title": "Chapel",
+        "description": "Small marble-altared chapel where Mass could be said for visiting sailors."
+      },
+      {
+        "title": "Spiral stair",
+        "description": "301 stone steps wind to the lantern through alternating tiers."
+      },
+      {
+        "title": "Active lantern",
+        "description": "The lighthouse still flashes at night, automated since 2006."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1611",
+        "description": "Inaugurated as the most ornate lighthouse in Europe."
+      },
+      {
+        "year": "1789",
+        "description": "Teulère raises the tower to its present 67 metres."
+      },
+      {
+        "year": "1862",
+        "description": "Listed among the first French historic monuments."
+      },
+      {
+        "year": "2021",
+        "description": "Inscribed by UNESCO as a World Heritage Site."
+      }
+    ]
+  },
+  {
+    "id": "bran-castle",
+    "name": "Bran Castle",
+    "kind": "castle",
+    "era": "medieval",
+    "location": "Bran, Romania",
+    "centuryLabel": "14th century",
+    "brief": "Medieval castle on a rocky cliff in Transylvania, popularly associated with Bram Stoker's Dracula.",
+    "fact": "Stoker probably never saw the castle — its 'Dracula' connection was invented by 20th-century tourism.",
+    "imageName": "bran_castle",
+    "popularityRank": 26,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Wooden Teutonic fort (1212)",
+        "description": "The Teutonic Knights build a wooden border fort on the rock."
+      },
+      {
+        "order": 2,
+        "title": "Saxon stone castle (1377)",
+        "description": "The Saxons of Brașov build the present stone castle as a customs station."
+      },
+      {
+        "order": 3,
+        "title": "Hungarian governorship (15th c.)",
+        "description": "Used as a Hungarian frontier fortress against the Ottoman Empire."
+      },
+      {
+        "order": 4,
+        "title": "Royal residence (1920)",
+        "description": "Donated to Queen Marie of Romania who turns it into a private summer residence."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Inner courtyard",
+        "description": "Tiny irregular courtyard surrounded by tall white walls."
+      },
+      {
+        "title": "Queen Marie's apartments",
+        "description": "Restored 1920s royal apartments with embroidered fabrics and carved Romanian furniture."
+      },
+      {
+        "title": "Secret stair",
+        "description": "A narrow hidden stair connects two floors through a fireplace."
+      },
+      {
+        "title": "Torture chamber exhibit",
+        "description": "Modern installation with replicas of medieval interrogation tools."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1377",
+        "description": "The Saxons of Brașov complete the present stone castle."
+      },
+      {
+        "year": "1920",
+        "description": "Donated by the city of Brașov to Queen Marie of Romania."
+      },
+      {
+        "year": "1948",
+        "description": "Confiscated by the communist regime; the royal collection is dispersed."
+      },
+      {
+        "year": "2009",
+        "description": "Returned to the descendants of Queen Marie and reopened as a private museum."
+      }
+    ]
+  },
+  {
+    "id": "samarra-minaret",
+    "name": "Great Mosque Spiral Minaret",
+    "kind": "bell",
+    "era": "medieval",
+    "location": "Samarra, Iraq",
+    "centuryLabel": "9th century",
+    "brief": "Helical spiral minaret of the Great Mosque of Samarra, an Abbasid masterpiece nicknamed the Malwiya.",
+    "fact": "The 52-metre cone is climbed by an external ramp wrapping five times around the outside.",
+    "imageName": "samarra_minaret",
+    "popularityRank": 27,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Mosque commission (848)",
+        "description": "Caliph al-Mutawakkil orders the construction of the Great Mosque of Samarra."
+      },
+      {
+        "order": 2,
+        "title": "Square base",
+        "description": "A massive 33 metre square brick base is laid for the minaret."
+      },
+      {
+        "order": 3,
+        "title": "Helical cone (851)",
+        "description": "The conical tower with its external spiral ramp rises to 52 metres above the desert."
+      },
+      {
+        "order": 4,
+        "title": "Truncation (2005)",
+        "description": "An insurgent attack damages the upper section, but the base and most of the spiral survive."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "External spiral ramp",
+        "description": "The ramp is fully external — no internal stair exists."
+      },
+      {
+        "title": "Small lantern",
+        "description": "A small octagonal lantern sat at the very top, holding the muezzin."
+      },
+      {
+        "title": "Mosque enclosure",
+        "description": "The minaret stands in the largest mosque enclosure in the world by area."
+      },
+      {
+        "title": "Brick layers",
+        "description": "The brick courses can be read like tree rings showing season-by-season construction."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "851",
+        "description": "Completed under Caliph al-Mutawakkil as part of the Great Mosque."
+      },
+      {
+        "year": "1278",
+        "description": "The mosque is destroyed by the Mongols, but the minaret survives."
+      },
+      {
+        "year": "2005",
+        "description": "An explosion damages the top of the spiral during the Iraq War."
+      },
+      {
+        "year": "2007",
+        "description": "Inscribed by UNESCO as a World Heritage Site (currently endangered)."
+      }
+    ]
+  },
+  {
+    "id": "tower-of-david",
+    "name": "Tower of David",
+    "kind": "watchtower",
+    "era": "ancient",
+    "location": "Jerusalem",
+    "centuryLabel": "2nd century BC",
+    "brief": "Ancient citadel near the Jaffa Gate of Jerusalem, with foundations dating to the Hasmonean period and a Mamluk minaret often mistaken for King David's tower.",
+    "fact": "Despite the name, the most prominent tower (the minaret) was actually built by Mamluks in 1655, more than 2500 years after King David.",
+    "imageName": "tower_of_david",
+    "popularityRank": 28,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Hasmonean walls (2nd c. BC)",
+        "description": "The first fortifications are added to Jerusalem's western wall."
+      },
+      {
+        "order": 2,
+        "title": "Herod's Phasael Tower (37 BC)",
+        "description": "Herod the Great builds three massive towers; the base of Phasael survives in the citadel."
+      },
+      {
+        "order": 3,
+        "title": "Crusader fortress (12th c.)",
+        "description": "The Crusaders rebuild the citadel as the royal residence of Jerusalem."
+      },
+      {
+        "order": 4,
+        "title": "Mamluk minaret (1655)",
+        "description": "The Ottomans add the slender minaret that gives the citadel its modern silhouette."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Phasael base",
+        "description": "Huge Herodian ashlar blocks of the original Phasael Tower visible at the base."
+      },
+      {
+        "title": "Inner courtyard",
+        "description": "Open archaeological courtyard exposing layers from many centuries."
+      },
+      {
+        "title": "Citadel museum",
+        "description": "Multimedia exhibits trace the history of Jerusalem through twenty centuries."
+      },
+      {
+        "title": "Minaret viewpoint",
+        "description": "The Mamluk minaret can be climbed for views over the Old City."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "37 BC",
+        "description": "Herod the Great fortifies the western wall with three great towers."
+      },
+      {
+        "year": "1099",
+        "description": "The Crusaders take Jerusalem and rebuild the citadel as a royal residence."
+      },
+      {
+        "year": "1655",
+        "description": "The Mamluk minaret is added, giving the modern outline of the tower."
+      },
+      {
+        "year": "1989",
+        "description": "Reopened as the Tower of David Museum of the History of Jerusalem."
+      }
+    ]
+  },
+  {
+    "id": "karlstejn-castle",
+    "name": "Karlštejn Castle",
+    "kind": "castle",
+    "era": "medieval",
+    "location": "Karlštejn, Czechia",
+    "centuryLabel": "14th century",
+    "brief": "Gothic castle 30 km south-west of Prague founded by King Charles IV as the safe-keeping of the Imperial Crown Jewels.",
+    "fact": "The Chapel of the Holy Cross inside the Great Tower is decorated with 130 panel paintings by Master Theodoric.",
+    "imageName": "karlstejn_castle",
+    "popularityRank": 29,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Royal foundation (1348)",
+        "description": "Charles IV lays the foundation stone for the castle on a high rocky promontory."
+      },
+      {
+        "order": 2,
+        "title": "Great Tower (1357)",
+        "description": "The massive square Great Tower is built to house the imperial regalia and relics."
+      },
+      {
+        "order": 3,
+        "title": "Holy Cross Chapel (1365)",
+        "description": "The chapel inside the Great Tower is consecrated, decorated with semi-precious stones and panel paintings."
+      },
+      {
+        "order": 4,
+        "title": "Neo-Gothic restoration (1880s)",
+        "description": "Architect Josef Mocker carries out a thorough neo-Gothic restoration."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Holy Cross Chapel",
+        "description": "Walls clad with 2400 polished semi-precious stones beneath 130 panel paintings of saints."
+      },
+      {
+        "title": "Audience Hall",
+        "description": "The Great Hall with a star vault and replicas of the imperial crown jewels."
+      },
+      {
+        "title": "Marian Tower chapel",
+        "description": "Smaller chapel with rare wall paintings of the Apocalypse."
+      },
+      {
+        "title": "Treasury",
+        "description": "Original keep where the Imperial Crown Jewels were kept until 1421."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1348",
+        "description": "Charles IV founds the castle as a treasury for the Imperial Crown Jewels."
+      },
+      {
+        "year": "1421",
+        "description": "The Hussite Wars force the relics to be moved to Hungary for safekeeping."
+      },
+      {
+        "year": "1620",
+        "description": "After the Battle of White Mountain the castle ceases to be a royal residence."
+      },
+      {
+        "year": "1962",
+        "description": "Declared a National Cultural Monument of Czechoslovakia."
+      }
+    ]
+  },
+  {
+    "id": "bell-rock-lighthouse",
+    "name": "Bell Rock Lighthouse",
+    "kind": "lighthouse",
+    "era": "earlyModern",
+    "location": "Angus, Scotland",
+    "centuryLabel": "19th century",
+    "brief": "World's oldest sea-washed lighthouse, standing on a treacherous reef in the North Sea 18 km off the east coast of Scotland.",
+    "fact": "The lighthouse is built of interlocking stone blocks like a stone jigsaw puzzle, and has not been altered structurally in 200 years.",
+    "imageName": "bell_rock_lighthouse",
+    "popularityRank": 30,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Survey by Stevenson (1799)",
+        "description": "Robert Stevenson surveys the deadly Inchcape Reef and proposes a granite lighthouse."
+      },
+      {
+        "order": 2,
+        "title": "Workforce barracks (1807)",
+        "description": "A wooden barracks is erected on the reef, where masons can only work at low tide."
+      },
+      {
+        "order": 3,
+        "title": "Granite tower (1810)",
+        "description": "The interlocking stone tower of pre-cut Aberdeen granite is built up over four years."
+      },
+      {
+        "order": 4,
+        "title": "Light kindled (1811)",
+        "description": "The lantern is lit on 1 February 1811 and has shone almost continuously ever since."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Library room",
+        "description": "Small wood-panelled room used as a library for the keepers."
+      },
+      {
+        "title": "Kitchen",
+        "description": "Tiny round kitchen with a coal range, halfway up the tower."
+      },
+      {
+        "title": "Lantern room",
+        "description": "Modern automated optic that flashes white every 5 seconds, visible 18 nautical miles."
+      },
+      {
+        "title": "Helideck",
+        "description": "A small helipad attached to the tower allows maintenance crews to land."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1811",
+        "description": "Lit for the first time on 1 February."
+      },
+      {
+        "year": "1988",
+        "description": "Automated, the last keepers leave the rock."
+      },
+      {
+        "year": "2010",
+        "description": "Bicentenary of the lighthouse, marked by Scottish historic events."
+      },
+      {
+        "year": null,
+        "description": "Officially classified as a Category A listed building."
+      }
+    ]
+  },
+  {
+    "id": "mont-saint-michel",
+    "name": "Mont-Saint-Michel Abbey",
+    "kind": "fortress",
+    "era": "medieval",
+    "location": "Normandy, France",
+    "centuryLabel": "11th century",
+    "brief": "Medieval abbey crowning a tidal island off the Normandy coast, one of France's most recognisable landmarks.",
+    "fact": "Twice a day the tide turns the island into a true island, cutting off the causeway when the sea sweeps in faster than a person can run.",
+    "imageName": "mont_saint_michel",
+    "popularityRank": 31,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "First oratory (708)",
+        "description": "Bishop Aubert of Avranches founds a small oratory after a vision of the Archangel Michael."
+      },
+      {
+        "order": 2,
+        "title": "Romanesque abbey (11th c.)",
+        "description": "The first stone abbey is built on top of the rock with cellars supporting the upper church."
+      },
+      {
+        "order": 3,
+        "title": "Gothic Marvel (1228)",
+        "description": "The three-storey Gothic monastic complex called La Merveille is added on the north side."
+      },
+      {
+        "order": 4,
+        "title": "Spire and statue (1897)",
+        "description": "A new spire is built, crowned by a gilded statue of St Michael at 156 metres above sea level."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Abbey church",
+        "description": "Romanesque nave with a Gothic choir rebuilt after a 15th-century collapse."
+      },
+      {
+        "title": "La Merveille",
+        "description": "Three Gothic levels of refectory, scriptorium and cloister built into the cliff face."
+      },
+      {
+        "title": "Cloister",
+        "description": "Suspended cloister with double rows of slender pink granite columns offset for trompe-l'oeil effect."
+      },
+      {
+        "title": "Crypt of the Big Pillars",
+        "description": "Massive Romanesque pillars supporting the choir of the church above."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "966",
+        "description": "Benedictine monks settle on the rock at the request of the Duke of Normandy."
+      },
+      {
+        "year": "1469",
+        "description": "King Louis XI founds the Order of Saint Michael at the abbey."
+      },
+      {
+        "year": "1790",
+        "description": "The French Revolution suppresses the monastery; the abbey becomes a state prison."
+      },
+      {
+        "year": "1979",
+        "description": "Inscribed by UNESCO as a World Heritage Site."
+      }
+    ]
+  },
+  {
+    "id": "yueyang-tower",
+    "name": "Yueyang Tower",
+    "kind": "watchtower",
+    "era": "ancient",
+    "location": "Yueyang, China",
+    "centuryLabel": "3rd century",
+    "brief": "Three-story Chinese tower beside Dongting Lake, considered one of the Three Great Towers of southern China for its poetic and historical importance.",
+    "fact": "Its fame rests on the famous prose-poem 'On Yueyang Tower' written by Fan Zhongyan in 1046, even though he had never visited the tower.",
+    "imageName": "yueyang_tower",
+    "popularityRank": 32,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Han military review terrace (3rd c.)",
+        "description": "General Lu Su builds a terrace to review naval troops on Dongting Lake."
+      },
+      {
+        "order": 2,
+        "title": "Tang refurbishment (716)",
+        "description": "Tang dynasty officials rebuild the structure as a proper three-storey tower."
+      },
+      {
+        "order": 3,
+        "title": "Song reconstruction (1045)",
+        "description": "Governor Teng Zigjing rebuilds the tower; Fan Zhongyan writes the famous essay."
+      },
+      {
+        "order": 4,
+        "title": "Qing rebuild (1880)",
+        "description": "The current wooden tower with characteristic helmet-shaped roof is completed."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Helmet roof",
+        "description": "Unique double-eaved roof shaped like an ancient general's helmet, distinctive among Chinese towers."
+      },
+      {
+        "title": "Wooden columns",
+        "description": "Four central columns rise through all three floors without metal nails."
+      },
+      {
+        "title": "Calligraphy hall",
+        "description": "Each floor displays calligraphic copies of Fan Zhongyan's famous essay."
+      },
+      {
+        "title": "Lake terrace",
+        "description": "Open balconies on every floor with views over Dongting Lake."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "215",
+        "description": "General Lu Su builds the original review terrace on the site."
+      },
+      {
+        "year": "1045",
+        "description": "Fan Zhongyan writes 'On Yueyang Tower', one of the most famous essays in Chinese."
+      },
+      {
+        "year": "1880",
+        "description": "The current Qing dynasty wooden tower is completed."
+      },
+      {
+        "year": "1988",
+        "description": "Designated a Major Historical and Cultural Site by China."
+      }
+    ]
+  },
+  {
+    "id": "xian-bell-tower",
+    "name": "Bell Tower of Xi'an",
+    "kind": "bell",
+    "era": "earlyModern",
+    "location": "Xi'an, China",
+    "centuryLabel": "14th century",
+    "brief": "Ming dynasty bell tower at the very centre of the old walled city of Xi'an, signalling daybreak in the imperial city for centuries.",
+    "fact": "The original bell, the Jingyun Bell of 1384, weighed five tonnes and now lives in the Forest of Stone Steles museum nearby.",
+    "imageName": "xian_bell_tower",
+    "popularityRank": 33,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "First Ming tower (1384)",
+        "description": "The Hongwu Emperor's first bell tower is built two blocks west of the present site."
+      },
+      {
+        "order": 2,
+        "title": "Relocation (1582)",
+        "description": "The tower is dismantled and rebuilt in the present central square as the city grew."
+      },
+      {
+        "order": 3,
+        "title": "Reign-era restorations",
+        "description": "Subsequent Qing dynasty repairs preserve the green glazed tile roofs and red columns."
+      },
+      {
+        "order": 4,
+        "title": "Pedestrian island (1996)",
+        "description": "The square around the tower is fully pedestrianised and an underpass connects to the metro."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Bell chamber",
+        "description": "A replica Tang dynasty bell hangs from the ceiling, struck on ceremonial days."
+      },
+      {
+        "title": "Painted brackets",
+        "description": "Carved and painted dougong wooden brackets support the great eaves."
+      },
+      {
+        "title": "Exhibition floors",
+        "description": "Rotating exhibitions display Tang and Ming bronze artefacts."
+      },
+      {
+        "title": "Square viewpoint",
+        "description": "Open balconies on each floor look out along the four streets of the old city."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1384",
+        "description": "Originally built two blocks west by order of the Hongwu Emperor."
+      },
+      {
+        "year": "1582",
+        "description": "Dismantled and rebuilt in the present central square."
+      },
+      {
+        "year": "1953",
+        "description": "Listed as a national monument by the People's Republic of China."
+      },
+      {
+        "year": "1996",
+        "description": "Pedestrian square reopens with the tower as its centrepiece."
+      }
+    ]
+  },
+  {
+    "id": "olavinlinna-castle",
+    "name": "Olavinlinna Castle",
+    "kind": "castle",
+    "era": "medieval",
+    "location": "Savonlinna, Finland",
+    "centuryLabel": "15th century",
+    "brief": "15th-century medieval Nordic castle on a small rocky island in the middle of Lake Saimaa, the world's northernmost surviving stone castle.",
+    "fact": "Each summer the inner courtyard hosts the Savonlinna Opera Festival, with stagings of Wagner and Verdi performed inside the medieval walls.",
+    "imageName": "olavinlinna_castle",
+    "popularityRank": 34,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Royal commission (1475)",
+        "description": "Erik Axelsson Tott begins the castle for the Swedish crown to defend the eastern border."
+      },
+      {
+        "order": 2,
+        "title": "Three round towers",
+        "description": "Three massive round towers with thick walls are built to take cannon fire."
+      },
+      {
+        "order": 3,
+        "title": "Russian conquest (1714-1721)",
+        "description": "The castle is occupied by Russian troops during the Great Northern War."
+      },
+      {
+        "order": 4,
+        "title": "Restorations (1961-1975)",
+        "description": "Conservators stabilise the walls and recreate medieval roofs and interiors."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "St Erik's tower",
+        "description": "The largest round tower contains the chapel and the dining hall."
+      },
+      {
+        "title": "Bell tower",
+        "description": "Houses a small museum on the castle's history and the Orthodox Church in Finland."
+      },
+      {
+        "title": "Dungeons",
+        "description": "Narrow stone cells in the bailey kept Russian and Swedish prisoners of war."
+      },
+      {
+        "title": "Opera courtyard",
+        "description": "The inner courtyard is fitted each summer with a roof and stage for the Savonlinna Opera Festival."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1475",
+        "description": "Construction begins under Erik Axelsson Tott for the Swedish kingdom."
+      },
+      {
+        "year": "1714",
+        "description": "Captured by Russian troops during the Great Northern War."
+      },
+      {
+        "year": "1812",
+        "description": "Loses its military function and is abandoned by the Russian garrison."
+      },
+      {
+        "year": "1912",
+        "description": "First opera performance staged in the inner courtyard, starting a tradition."
+      }
+    ]
+  },
+  {
+    "id": "hampton-court-clock",
+    "name": "Hampton Court Clock Tower",
+    "kind": "clock",
+    "era": "renaissance",
+    "location": "London, England",
+    "centuryLabel": "16th century",
+    "brief": "Tudor gatehouse tower at Hampton Court Palace on the Thames, holding the famous Astronomical Clock of Henry VIII.",
+    "fact": "The clock predates Copernicus's published heliocentric model, so it shows the sun rotating around the Earth — useful for telling the time of high tide on the Thames.",
+    "imageName": "hampton_court_clock",
+    "popularityRank": 35,
+    "buildStages": [
+      {
+        "order": 1,
+        "title": "Wolsey's gatehouse (1515)",
+        "description": "Cardinal Wolsey builds the Tudor red brick gatehouse as the main entrance to his new palace."
+      },
+      {
+        "order": 2,
+        "title": "Henry VIII takeover (1529)",
+        "description": "Henry VIII seizes the palace and adds the astronomical clock above the gate."
+      },
+      {
+        "order": 3,
+        "title": "Astronomical Clock (1540)",
+        "description": "Nicholas Oursian completes the great clock with three concentric dials."
+      },
+      {
+        "order": 4,
+        "title": "Restorations (19th-20th c.)",
+        "description": "Successive restorations preserve the Tudor brickwork and the clock mechanism."
+      }
+    ],
+    "interiorNotes": [
+      {
+        "title": "Clock chamber",
+        "description": "Original 16th-century iron mechanism still drives the great clock face."
+      },
+      {
+        "title": "Astronomical face",
+        "description": "Three rotating dials show hour, month, lunar phase and time of high tide at London Bridge."
+      },
+      {
+        "title": "Anne Boleyn's gate",
+        "description": "Below the clock the gateway carries Henry VIII and Anne Boleyn's intertwined initials."
+      },
+      {
+        "title": "Inner courtyard",
+        "description": "Clock Court below the gate is the second of the three Tudor courtyards."
+      }
+    ],
+    "historicFacts": [
+      {
+        "year": "1515",
+        "description": "Cardinal Wolsey begins the gatehouse as the main entrance to Hampton Court."
+      },
+      {
+        "year": "1540",
+        "description": "Nicholas Oursian completes the astronomical clock for Henry VIII."
+      },
+      {
+        "year": "1879",
+        "description": "The clock face is restored to its original Tudor design after Victorian alterations."
+      },
+      {
+        "year": null,
+        "description": "Hampton Court Palace receives over 1.7 million visitors per year."
+      }
+    ]
+  }
+]

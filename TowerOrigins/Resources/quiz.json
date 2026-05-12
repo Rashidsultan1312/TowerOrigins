@@ -1,0 +1,107 @@
+[
+  {
+    "id": "q01-kind-tower-of-london",
+    "prompt": "What kind of tower is the Tower of London?",
+    "options": ["Lighthouse", "Castle keep", "Bell tower", "Clock tower"],
+    "answerIndex": 1,
+    "explanation": "The Tower of London began as the White Tower, a Norman castle keep raised by William the Conqueror around 1078."
+  },
+  {
+    "id": "q02-purpose-tower-of-hercules",
+    "prompt": "What is the Tower of Hercules used for?",
+    "options": ["Bell ringing", "Astronomical observation", "Lighthouse for ships", "Defensive watchtower"],
+    "answerIndex": 2,
+    "explanation": "It is the only Roman lighthouse still in use, guiding ships into the harbour of A Coruña for almost two thousand years."
+  },
+  {
+    "id": "q03-era-giralda",
+    "prompt": "In which era was the Giralda originally built?",
+    "options": ["Ancient Rome", "Almohad medieval", "Renaissance", "Early Modern"],
+    "answerIndex": 1,
+    "explanation": "It was raised in 1184 as the minaret of the Almohad great mosque of Seville, a clearly medieval Islamic period."
+  },
+  {
+    "id": "q04-purpose-belem",
+    "prompt": "Why was the Belém Tower built?",
+    "options": ["Astronomical observation", "Bell tower of a cathedral", "Harbour defence and ceremonial gate", "Royal residence"],
+    "answerIndex": 2,
+    "explanation": "Manuel I commissioned it to defend the mouth of the Tagus and as a ceremonial gateway for Portuguese explorers."
+  },
+  {
+    "id": "q05-stage-pisa",
+    "prompt": "Why does the Tower of Pisa have a curve in its upper floors?",
+    "options": ["To imitate Islamic minarets", "To compensate for the lean during construction", "To resist earthquakes", "To better support the bells"],
+    "answerIndex": 1,
+    "explanation": "After the tower started leaning during construction, builders bent the upper storeys to counter the tilt."
+  },
+  {
+    "id": "q06-kind-big-ben",
+    "prompt": "What kind of tower is Big Ben?",
+    "options": ["Watchtower", "Lighthouse", "Clock tower", "Castle keep"],
+    "answerIndex": 2,
+    "explanation": "Big Ben is the great bell of the clock tower of Westminster, officially renamed the Elizabeth Tower in 2012."
+  },
+  {
+    "id": "q07-stage-eiffel",
+    "prompt": "What was the Eiffel Tower originally built for?",
+    "options": ["Royal coronation", "1889 World's Fair", "Astronomical observation", "Religious procession"],
+    "answerIndex": 1,
+    "explanation": "It was built as the centrepiece of the 1889 World's Fair celebrating the centenary of the French Revolution."
+  },
+  {
+    "id": "q08-interior-giralda",
+    "prompt": "How could the muezzin reach the top of the Giralda?",
+    "options": ["By a wooden lift", "By a spiral stair of 500 steps", "By a series of internal ramps", "By an external rope ladder"],
+    "answerIndex": 2,
+    "explanation": "Instead of stairs, the Giralda has 35 ramp sections so the muezzin could ride a horse to the top."
+  },
+  {
+    "id": "q09-kind-tower-of-hercules",
+    "prompt": "What kind of tower is the Tower of Hercules?",
+    "options": ["Watchtower", "Lighthouse", "Bell tower", "Fortress tower"],
+    "answerIndex": 1,
+    "explanation": "It is a Roman lighthouse that has guided ships on the Atlantic coast for nearly two thousand years."
+  },
+  {
+    "id": "q10-era-pharos",
+    "prompt": "When was the Lighthouse of Alexandria built?",
+    "options": ["3rd century BC", "1st century AD", "12th century", "16th century"],
+    "answerIndex": 0,
+    "explanation": "It was built around 280 BC under the Hellenistic kings Ptolemy I and Ptolemy II of Egypt."
+  },
+  {
+    "id": "q11-fact-galata",
+    "prompt": "Which legendary feat is associated with the Galata Tower?",
+    "options": ["The first telegraph signal", "Hezârfen's flight across the Bosphorus", "The first photograph of Istanbul", "A solar eclipse observation"],
+    "answerIndex": 1,
+    "explanation": "In 1632 Hezârfen Ahmed Çelebi is said to have flown from the tower with home-made wings across the Bosphorus."
+  },
+  {
+    "id": "q12-purpose-torre-del-oro",
+    "prompt": "What was the Torre del Oro built for?",
+    "options": ["Royal palace", "Bell tower of a cathedral", "Controlling river port traffic", "Pharmaceutical observation"],
+    "answerIndex": 2,
+    "explanation": "The Almohads built it to defend the Guadalquivir river port and control entry into Seville with a chain across the river."
+  },
+  {
+    "id": "q13-stage-hassan",
+    "prompt": "Why was the Hassan Tower in Rabat never finished?",
+    "options": ["A war stopped the works", "The architect was exiled", "The sultan died in 1199", "An earthquake destroyed it"],
+    "answerIndex": 2,
+    "explanation": "Sultan Yacub al-Mansur died in 1199 and the planned 86-metre minaret was left at its current 44 metres."
+  },
+  {
+    "id": "q14-interior-prague",
+    "prompt": "What happens every hour at the Prague Astronomical Clock Tower?",
+    "options": ["A choir sings from the bell stage", "The twelve apostles parade in the windows", "A flame is rekindled in the lantern", "Trumpeters play from the dome"],
+    "answerIndex": 1,
+    "explanation": "Each hour the windows above the dial open and the figures of the twelve apostles parade past the spectators."
+  },
+  {
+    "id": "q15-fact-tavira",
+    "prompt": "What unique feature does the Tavira Tower in Cádiz host inside?",
+    "options": ["A Roman mosaic", "A camera obscura", "An armillary sphere", "An ancient sundial"],
+    "answerIndex": 1,
+    "explanation": "Tavira Tower hosts the only active camera obscura in Spain, projecting the live image of Cádiz onto a concave screen."
+  }
+]

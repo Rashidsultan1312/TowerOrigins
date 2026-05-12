@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "idiom": "universal",
+      "filename": "galata_tower.jpg",
+      "scale": "1x"
+    }
+  ],
+  "info": {
+    "version": 1,
+    "author": "xcode"
+  }
+}

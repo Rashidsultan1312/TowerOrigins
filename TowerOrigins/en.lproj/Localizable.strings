@@ -1,0 +1,100 @@
+"onboarding.skip" = "Skip";
+"onboarding.next" = "Next";
+"onboarding.start" = "Start Exploring";
+"onboarding.1.title" = "Discover ancient towers";
+"onboarding.1.text" = "Explore castles, lighthouses and bell towers around the world and learn their stories.";
+"onboarding.2.title" = "See how they were built";
+"onboarding.2.text" = "Construction stages, scaffolding, cranes and stone blocks step by step.";
+"onboarding.3.title" = "Explore the interior";
+"onboarding.3.text" = "Halls, stairs and bells — everything hidden inside an ancient tower.";
+"onboarding.4.title" = "Test your knowledge";
+"onboarding.4.text" = "Short quizzes with fun facts so you learn while you play.";
+
+"tab.home" = "Home";
+"tab.explore" = "Explore";
+"tab.quiz" = "Quiz";
+"tab.favorites" = "Favorites";
+"tab.info" = "Info";
+
+"home.title" = "Ancient Towers";
+"home.subtitle" = "Discover ancient towers and how they were built";
+"home.featured" = "Featured tower";
+"home.featured.cta" = "Read more";
+"home.popular" = "Most popular";
+"home.sections" = "Learn about towers";
+"home.section.stages" = "Build stages";
+"home.section.interior" = "Interior view";
+"home.section.facts" = "Historic facts";
+"home.section.quiz" = "Test your memory";
+"home.stat.towers" = "Towers";
+"home.stat.viewed" = "Visited";
+"home.stat.favorites" = "Favorites";
+
+"explore.title" = "Explore";
+"explore.search" = "Search towers...";
+"explore.filter" = "Filter";
+"explore.filter.kind" = "Type";
+"explore.filter.era" = "Era";
+"explore.filter.clear" = "Clear";
+"explore.filter.apply" = "Apply";
+"explore.empty" = "No towers match these filters.";
+"explore.results" = "%d towers";
+
+"detail.didYouKnow" = "Did you know?";
+"detail.section.stages" = "Stages";
+"detail.section.interior" = "Interior";
+"detail.section.facts" = "History";
+"detail.favorite.add" = "Add to favorites";
+"detail.favorite.remove" = "Remove from favorites";
+"detail.location" = "Location";
+"detail.century" = "Era";
+"detail.kind" = "Type";
+"detail.missing" = "Tower not found.";
+
+"sheet.stages.title" = "Build stages";
+"sheet.interior.title" = "Interior view";
+"sheet.facts.title" = "Historic facts";
+"sheet.close" = "Close";
+
+"quiz.title" = "Quiz";
+"quiz.intro.title" = "Ready for the challenge?";
+"quiz.intro.text" = "%d questions about ancient towers. Tap an answer and find out.";
+"quiz.intro.start" = "Start quiz";
+"quiz.intro.best" = "Best score: %d";
+"quiz.progress" = "%d / %d";
+"quiz.next" = "Next";
+"quiz.correct" = "Correct!";
+"quiz.incorrect" = "Almost...";
+"quiz.result.title" = "Your score";
+"quiz.result.score" = "%d of %d";
+"quiz.result.retry" = "Try again";
+"quiz.result.back" = "Back";
+"quiz.result.new_best" = "New best!";
+
+"favorites.title" = "Favorites";
+"favorites.empty.title" = "No favorites yet";
+"favorites.empty.text" = "Tap the heart on any tower to save it here.";
+"favorites.delete" = "Delete";
+
+"info.title" = "Info";
+"info.about.title" = "About this app";
+"info.about.text" = "A visual guide to ancient towers: castles, bell towers, lighthouses and fortresses. Learn how they were built and what they hide inside.";
+"info.privacy" = "Privacy policy";
+"info.support" = "Support";
+"info.support.subtitle" = "Reach out if you have questions";
+"info.version" = "Version %@";
+"info.settings" = "Settings";
+"info.haptics" = "Haptic feedback";
+
+"kind.castle" = "Castles";
+"kind.watchtower" = "Watchtowers";
+"kind.bell" = "Bell towers";
+"kind.clock" = "Clock towers";
+"kind.fortress" = "Fortresses";
+"kind.lighthouse" = "Lighthouses";
+"kind.medieval" = "Medieval";
+
+"era.ancient" = "Ancient";
+"era.medieval" = "Medieval";
+"era.renaissance" = "Renaissance";
+"era.earlyModern" = "Early Modern";

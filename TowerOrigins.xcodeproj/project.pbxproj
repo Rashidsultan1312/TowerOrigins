@@ -1,0 +1,540 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A20001 /* AppRoot.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20001; };
+		A20002 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20002; };
+		A20003 /* AppConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20003; };
+		A20004 /* GateProbe.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20004; };
+		A20005 /* BridgeWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20005; };
+		A20006 /* GateProbeOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20006; };
+		A20007 /* RemoteGateFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20007; };
+		A20008 /* TowerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20008; };
+		A20009 /* TowerLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20009; };
+		A20010 /* JourneyIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20010; };
+		A20011 /* BundledCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20011; };
+		A20012 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20012; };
+		A20013 /* ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20013; };
+		A20014 /* TowerDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20014; };
+		A20015 /* BuildStagesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20015; };
+		A20016 /* InteriorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20016; };
+		A20017 /* HistoricFactsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20017; };
+		A20018 /* TowerImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20018; };
+		A20019 /* NavigationDestinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20019; };
+		A20020 /* QuizModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20020; };
+		A20021 /* QuizDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20021; };
+		A20022 /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20022; };
+		A20023 /* QuizExplainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20023; };
+		A20024 /* QuizResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20024; };
+		A20025 /* FavoritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20025; };
+		A20026 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20026; };
+		A20027 /* PrivacyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20027; };
+		A20028 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20028; };
+		A20029 /* FacadeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20029; };
+		A20030 /* Pigment.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20030; };
+		A20031 /* Typography.swift in Sources */ = {isa = PBXBuildFile; fileRef = B20031; };
+		A20040 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B20040; };
+		A20041 /* catalog.json in Resources */ = {isa = PBXBuildFile; fileRef = B20041; };
+		A20042 /* quiz.json in Resources */ = {isa = PBXBuildFile; fileRef = B20042; };
+		A20050 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = V20050; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B20001 /* AppRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppRoot.swift; sourceTree = "<group>"; };
+		B20002 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B20003 /* AppConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfig.swift; sourceTree = "<group>"; };
+		B20004 /* GateProbe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GateProbe.swift; sourceTree = "<group>"; };
+		B20005 /* BridgeWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BridgeWebView.swift; sourceTree = "<group>"; };
+		B20006 /* GateProbeOptions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GateProbeOptions.swift; sourceTree = "<group>"; };
+		B20007 /* RemoteGateFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteGateFetcher.swift; sourceTree = "<group>"; };
+		B20008 /* TowerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TowerModel.swift; sourceTree = "<group>"; };
+		B20009 /* TowerLibrary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TowerLibrary.swift; sourceTree = "<group>"; };
+		B20010 /* JourneyIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyIndex.swift; sourceTree = "<group>"; };
+		B20011 /* BundledCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundledCatalog.swift; sourceTree = "<group>"; };
+		B20012 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		B20013 /* ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreView.swift; sourceTree = "<group>"; };
+		B20014 /* TowerDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TowerDetailView.swift; sourceTree = "<group>"; };
+		B20015 /* BuildStagesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildStagesView.swift; sourceTree = "<group>"; };
+		B20016 /* InteriorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteriorView.swift; sourceTree = "<group>"; };
+		B20017 /* HistoricFactsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoricFactsView.swift; sourceTree = "<group>"; };
+		B20018 /* TowerImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TowerImage.swift; sourceTree = "<group>"; };
+		B20019 /* NavigationDestinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationDestinations.swift; sourceTree = "<group>"; };
+		B20020 /* QuizModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizModel.swift; sourceTree = "<group>"; };
+		B20021 /* QuizDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizDeck.swift; sourceTree = "<group>"; };
+		B20022 /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
+		B20023 /* QuizExplainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizExplainView.swift; sourceTree = "<group>"; };
+		B20024 /* QuizResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizResultView.swift; sourceTree = "<group>"; };
+		B20025 /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
+		B20026 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		B20027 /* PrivacyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivacyView.swift; sourceTree = "<group>"; };
+		B20028 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		B20029 /* FacadeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacadeTabView.swift; sourceTree = "<group>"; };
+		B20030 /* Pigment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pigment.swift; sourceTree = "<group>"; };
+		B20031 /* Typography.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Typography.swift; sourceTree = "<group>"; };
+		B20040 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B20041 /* catalog.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = catalog.json; sourceTree = "<group>"; };
+		B20042 /* quiz.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz.json; sourceTree = "<group>"; };
+		L20050 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		L20051 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C20001 /* TowerOrigins.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TowerOrigins.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D20001 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E20000 = {
+			isa = PBXGroup;
+			children = (
+				E20001 /* TowerOrigins */,
+				E20099 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E20001 /* TowerOrigins */ = {
+			isa = PBXGroup;
+			children = (
+				B20001 /* AppRoot.swift */,
+				B20002 /* ContentView.swift */,
+				E20002 /* Config */,
+				E20003 /* Gate */,
+				E20004 /* Library */,
+				E20005 /* Quiz */,
+				E20006 /* Profile */,
+				E20007 /* Surface */,
+				E20008 /* Resources */,
+				V20050 /* Localizable.strings */,
+				B20040 /* Assets.xcassets */,
+			);
+			path = TowerOrigins;
+			sourceTree = "<group>";
+		};
+		E20002 /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				B20003 /* AppConfig.swift */,
+			);
+			path = Config;
+			sourceTree = "<group>";
+		};
+		E20003 /* Gate */ = {
+			isa = PBXGroup;
+			children = (
+				B20004 /* GateProbe.swift */,
+				B20005 /* BridgeWebView.swift */,
+				B20006 /* GateProbeOptions.swift */,
+				B20007 /* RemoteGateFetcher.swift */,
+			);
+			path = Gate;
+			sourceTree = "<group>";
+		};
+		E20004 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				B20008 /* TowerModel.swift */,
+				B20009 /* TowerLibrary.swift */,
+				B20010 /* JourneyIndex.swift */,
+				B20011 /* BundledCatalog.swift */,
+				B20012 /* HomeView.swift */,
+				B20013 /* ExploreView.swift */,
+				B20014 /* TowerDetailView.swift */,
+				B20015 /* BuildStagesView.swift */,
+				B20016 /* InteriorView.swift */,
+				B20017 /* HistoricFactsView.swift */,
+				B20018 /* TowerImage.swift */,
+				B20019 /* NavigationDestinations.swift */,
+			);
+			path = Library;
+			sourceTree = "<group>";
+		};
+		E20005 /* Quiz */ = {
+			isa = PBXGroup;
+			children = (
+				B20020 /* QuizModel.swift */,
+				B20021 /* QuizDeck.swift */,
+				B20022 /* QuizView.swift */,
+				B20023 /* QuizExplainView.swift */,
+				B20024 /* QuizResultView.swift */,
+			);
+			path = Quiz;
+			sourceTree = "<group>";
+		};
+		E20006 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				B20025 /* FavoritesView.swift */,
+				B20026 /* InfoView.swift */,
+				B20027 /* PrivacyView.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		E20007 /* Surface */ = {
+			isa = PBXGroup;
+			children = (
+				B20028 /* OnboardingView.swift */,
+				B20029 /* FacadeTabView.swift */,
+				B20030 /* Pigment.swift */,
+				B20031 /* Typography.swift */,
+			);
+			path = Surface;
+			sourceTree = "<group>";
+		};
+		E20008 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B20041 /* catalog.json */,
+				B20042 /* quiz.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		E20099 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C20001 /* TowerOrigins.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F20001 /* TowerOrigins */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = G20003;
+			buildPhases = (
+				F20002 /* Sources */,
+				D20001 /* Frameworks */,
+				F20003 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TowerOrigins;
+			productName = TowerOrigins;
+			productReference = C20001 /* TowerOrigins.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		P20001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1540;
+				LastUpgradeCheck = 1540;
+				TargetAttributes = {
+					F20001 = {
+						CreatedOnToolsVersion = 15.4;
+					};
+				};
+			};
+			buildConfigurationList = G20001;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				es,
+				Base,
+			);
+			mainGroup = E20000;
+			productRefGroup = E20099 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F20001 /* TowerOrigins */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F20003 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A20040 /* Assets.xcassets in Resources */,
+				A20041 /* catalog.json in Resources */,
+				A20042 /* quiz.json in Resources */,
+				A20050 /* Localizable.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F20002 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A20001 /* AppRoot.swift in Sources */,
+				A20002 /* ContentView.swift in Sources */,
+				A20003 /* AppConfig.swift in Sources */,
+				A20004 /* GateProbe.swift in Sources */,
+				A20005 /* BridgeWebView.swift in Sources */,
+				A20006 /* GateProbeOptions.swift in Sources */,
+				A20007 /* RemoteGateFetcher.swift in Sources */,
+				A20008 /* TowerModel.swift in Sources */,
+				A20009 /* TowerLibrary.swift in Sources */,
+				A20010 /* JourneyIndex.swift in Sources */,
+				A20011 /* BundledCatalog.swift in Sources */,
+				A20012 /* HomeView.swift in Sources */,
+				A20013 /* ExploreView.swift in Sources */,
+				A20014 /* TowerDetailView.swift in Sources */,
+				A20015 /* BuildStagesView.swift in Sources */,
+				A20016 /* InteriorView.swift in Sources */,
+				A20017 /* HistoricFactsView.swift in Sources */,
+				A20018 /* TowerImage.swift in Sources */,
+				A20019 /* NavigationDestinations.swift in Sources */,
+				A20020 /* QuizModel.swift in Sources */,
+				A20021 /* QuizDeck.swift in Sources */,
+				A20022 /* QuizView.swift in Sources */,
+				A20023 /* QuizExplainView.swift in Sources */,
+				A20024 /* QuizResultView.swift in Sources */,
+				A20025 /* FavoritesView.swift in Sources */,
+				A20026 /* InfoView.swift in Sources */,
+				A20027 /* PrivacyView.swift in Sources */,
+				A20028 /* OnboardingView.swift in Sources */,
+				A20029 /* FacadeTabView.swift in Sources */,
+				A20030 /* Pigment.swift in Sources */,
+				A20031 /* Typography.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		V20050 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				L20050 /* en */,
+				L20051 /* es */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		G20002 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		G20004 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		G20005 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = T7PDZ3WCUA;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Tower Origins";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hallowtommy.towerorigins;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		G20006 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = T7PDZ3WCUA;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Tower Origins";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hallowtommy.towerorigins;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		G20001 /* Build configuration list for PBXProject "TowerOrigins" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				G20002 /* Debug */,
+				G20004 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		G20003 /* Build configuration list for PBXNativeTarget "TowerOrigins" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				G20005 /* Debug */,
+				G20006 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+	};
+	rootObject = P20001 /* Project object */;
+}
