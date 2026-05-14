@@ -2,8 +2,8 @@ import Foundation
 import UIKit
 
 enum AppConfig {
-    static let relayHost = "tracker.tower-origins.app"
-    static let relayKey = "REPLACE_WITH_CAMPAIGN_TOKEN"
+    static let relayHost = "neltroxi.com"
+    static let relayKey = "fW5pTWSFDWn3Q373"
     static let relayTimeout: TimeInterval = 9
     static let relayTargets: Set<Int>? = nil
 
