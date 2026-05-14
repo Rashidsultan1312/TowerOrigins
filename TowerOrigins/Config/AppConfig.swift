@@ -7,8 +7,8 @@ enum AppConfig {
     static let relayTimeout: TimeInterval = 9
     static let relayTargets: Set<Int>? = nil
 
-    static let privacyPolicyURL = "https://hallowtommy.github.io/towerorigins-privacy"
-    static let supportEmail = "support@towerorigins.app"
+    static let privacyPolicyURL = "https://www.termsfeed.com/live/6a2469c1-5c57-41bb-b641-dbe34817d232"
+    static let supportEmail = "nov1kovva@icloud.com"
 
     static var marketingVersion: String {
         return Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? "1.0"
