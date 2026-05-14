@@ -1,0 +1,85 @@
+workflows:
+  ios-native-simulator-preview:
+    name: iOS Native Simulator Preview
+    max_build_duration: 120
+    instance_type: mac_mini_m2
+
+    environment:
+      xcode: latest
+      vars:
+        XCODE_PROJECT: "TowerOrigins.xcodeproj"
+        XCODE_SCHEME: "TowerOrigins"
+
+    scripts:
+      - name: Show Xcode project info
+        script: |
+          set -e
+          xcodebuild -list -project "$CM_BUILD_DIR/$XCODE_PROJECT"
+
+      - name: Verify versions in project
+        script: |
+          set -x
+          grep -n "MARKETING_VERSION" "$CM_BUILD_DIR/$XCODE_PROJECT/project.pbxproj" || true
+          grep -n "CURRENT_PROJECT_VERSION" "$CM_BUILD_DIR/$XCODE_PROJECT/project.pbxproj" || true
+
+      - name: Build .app for iOS Simulator
+        script: |
+          set -eo pipefail
+          mkdir -p /tmp/xcodebuild_logs
+
+          xcodebuild clean build \
+            -project "$CM_BUILD_DIR/$XCODE_PROJECT" \
+            -scheme "$XCODE_SCHEME" \
+            -configuration Debug \
+            -sdk iphonesimulator \
+            -destination 'generic/platform=iOS Simulator' \
+            -derivedDataPath "$CM_BUILD_DIR/DerivedData" \
+            -resultBundlePath /tmp/xcodebuild_logs/habittracker.xcresult \
+            CODE_SIGNING_ALLOWED=NO \
+            ARCHS=arm64 \
+            ONLY_ACTIVE_ARCH=YES \
+            EXCLUDED_ARCHS=x86_64 \
+            2>&1 | tee /tmp/xcodebuild_logs/simulator_build.log
+
+      - name: Show build diagnostics
+        script: |
+          echo "=== GREP: error ==="
+          grep -ni -C 5 "error" /tmp/xcodebuild_logs/simulator_build.log || true
+
+          echo "=== GREP: warning ==="
+          grep -ni -C 3 "warning" /tmp/xcodebuild_logs/simulator_build.log || true
+
+          echo "=== GREP: failed ==="
+          grep -ni -C 5 "failed" /tmp/xcodebuild_logs/simulator_build.log || true
+
+          echo "=== LAST 300 LINES ==="
+          tail -n 300 /tmp/xcodebuild_logs/simulator_build.log || true
+
+      - name: Read xcresult diagnostics
+        script: |
+          echo "=== XCRESULT TOOL ==="
+          xcrun xcresulttool get --legacy --path /tmp/xcodebuild_logs/habittracker.xcresult > /tmp/xcodebuild_logs/xcresult.json || true
+
+          echo "=== POSSIBLE ERRORS FROM XCRESULT ==="
+          grep -ni -C 4 "error" /tmp/xcodebuild_logs/xcresult.json || true
+
+          echo "=== POSSIBLE SWIFT DIAGNOSTICS ==="
+          grep -ni -C 4 "Swift" /tmp/xcodebuild_logs/xcresult.json || true
+
+          echo "=== LAST 200 LINES OF XCRESULT JSON ==="
+          tail -n 200 /tmp/xcodebuild_logs/xcresult.json || true
+
+      - name: Collect simulator .app
+        script: |
+          set -e
+          mkdir -p simulator_artifacts
+          find "$CM_BUILD_DIR/DerivedData" -path "*Build/Products/Debug-iphonesimulator/*.app" -type d -exec cp -R {} simulator_artifacts/ \;
+          echo "=== Collected apps ==="
+          find simulator_artifacts -maxdepth 2 -type d -name "*.app" -print
+
+    artifacts:
+      - simulator_artifacts/*.app
+      - /tmp/xcodebuild_logs/*.log
+      - /tmp/xcodebuild_logs/*.json
+      - /tmp/xcodebuild_logs/*.xcresult
+      - $CM_BUILD_DIR/DerivedData/**/Build/**/*.dSYM
